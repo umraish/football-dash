@@ -13,9 +13,9 @@
  },
  "uefa.champions": {
   "name": "UEFA Champions League",
-  "hist": 153,
-  "today": 7,
-  "predicted": 7
+  "hist": 161,
+  "today": 0,
+  "predicted": 0
  },
  "eng.1": {
   "name": "English Premier League",
@@ -37,9 +37,9 @@
  },
  "esp.1": {
   "name": "Spanish LALIGA",
-  "hist": 338,
-  "today": 1,
-  "predicted": 1
+  "hist": 339,
+  "today": 0,
+  "predicted": 0
  },
  "eng.charity": {
   "name": "English FA Community Shield",
@@ -337,9 +337,9 @@
  },
  "eng.w.league_cup": {
   "name": "English WSL Players Cup",
-  "hist": 28,
-  "today": 7,
-  "predicted": 2
+  "hist": 35,
+  "today": 0,
+  "predicted": 0
  },
  "esp.w.1": {
   "name": "Spanish Liga F",
@@ -835,8 +835,8 @@
  },
  "fifa.wworld.u17": {
   "name": "FIFA Under-17 Women's World Cup",
-  "hist": 16,
-  "today": 4,
+  "hist": 20,
+  "today": 0,
   "predicted": 0
  },
  "uefa.euro_u21_qual": {
@@ -871,9 +871,9 @@
  },
  "eng.3": {
   "name": "English League One",
-  "hist": 488,
-  "today": 1,
-  "predicted": 1
+  "hist": 489,
+  "today": 0,
+  "predicted": 0
  },
  "eng.4": {
   "name": "English League Two",
@@ -943,8 +943,8 @@
  },
  "ned.w.knvb_cup": {
   "name": "Dutch KNVB Beker Vrouwen",
-  "hist": 55,
-  "today": 1,
+  "hist": 56,
+  "today": 0,
   "predicted": 0
  },
  "ned.w.1": {
@@ -1195,9 +1195,9 @@
  },
  "jpn.1": {
   "name": "Japanese J.League",
-  "hist": 320,
-  "today": 10,
-  "predicted": 10
+  "hist": 330,
+  "today": 0,
+  "predicted": 0
  },
  "mex.campeon": {
   "name": "Mexican Campeon de Campeones",
@@ -1237,7 +1237,7 @@
  },
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
-  "hist": 255,
+  "hist": 256,
   "today": 1,
   "predicted": 1
  },
@@ -1291,8 +1291,8 @@
  },
  "caf.champions": {
   "name": "CAF Champions League",
-  "hist": 127,
-  "today": 2,
+  "hist": 129,
+  "today": 0,
   "predicted": 0
  },
  "caf.confed": {
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1464,
-  "today": 7,
-  "predicted": 6
+  "hist": 1466,
+  "today": 5,
+  "predicted": 4
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2347,
-  "today": 7,
-  "predicted": 7
+  "hist": 2348,
+  "today": 4,
+  "predicted": 4
  }
 }
