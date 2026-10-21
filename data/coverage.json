@@ -1,0 +1,1322 @@
+{
+ "fifa.world": {
+  "name": "FIFA World Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.wwc": {
+  "name": "FIFA Women's World Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.champions": {
+  "name": "UEFA Champions League",
+  "hist": 153,
+  "today": 9,
+  "predicted": 9
+ },
+ "eng.1": {
+  "name": "English Premier League",
+  "hist": 330,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.fa": {
+  "name": "English FA Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.league_cup": {
+  "name": "English Carabao Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "esp.1": {
+  "name": "Spanish LALIGA",
+  "hist": 338,
+  "today": 1,
+  "predicted": 1
+ },
+ "eng.charity": {
+  "name": "English FA Community Shield",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.nations": {
+  "name": "UEFA Nations League",
+  "hist": 108,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.friendly": {
+  "name": "International Friendly",
+  "hist": 341,
+  "today": 0,
+  "predicted": 0
+ },
+ "usa.1": {
+  "name": "MLS",
+  "hist": 454,
+  "today": 0,
+  "predicted": 0
+ },
+ "usa.nwsl": {
+  "name": "NWSL",
+  "hist": 224,
+  "today": 0,
+  "predicted": 0
+ },
+ "esp.super_cup": {
+  "name": "Spanish Supercopa",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "esp.copa_del_rey": {
+  "name": "Spanish Copa del Rey",
+  "hist": 81,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.leagues.cup": {
+  "name": "Leagues Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "campeones.cup": {
+  "name": "Campeones Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "usa.nwsl.cup": {
+  "name": "NWSL Challenge Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.shebelieves": {
+  "name": "SheBelieves Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.w.champions_cup": {
+  "name": "FIFA Women's Champions Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.wchampions": {
+  "name": "UEFA Women's Champions League",
+  "hist": 57,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.europa": {
+  "name": "UEFA Europa League",
+  "hist": 153,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.europa.conf": {
+  "name": "UEFA Conference League",
+  "hist": 117,
+  "today": 0,
+  "predicted": 0
+ },
+ "ita.1": {
+  "name": "Italian Serie A",
+  "hist": 330,
+  "today": 0,
+  "predicted": 0
+ },
+ "ita.coppa_italia": {
+  "name": "Coppa Italia",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ger.1": {
+  "name": "German Bundesliga",
+  "hist": 261,
+  "today": 0,
+  "predicted": 0
+ },
+ "ger.playoff.relegation": {
+  "name": "German Bundesliga Promotion/Relegation Playoff",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ger.dfb_pokal": {
+  "name": "German Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fra.1": {
+  "name": "French Ligue 1",
+  "hist": 251,
+  "today": 0,
+  "predicted": 0
+ },
+ "mex.1": {
+  "name": "Mexican Liga BBVA MX",
+  "hist": 291,
+  "today": 0,
+  "predicted": 0
+ },
+ "fra.coupe_de_france": {
+  "name": "Coupe de France",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fra.super_cup": {
+  "name": "French Trophee des Champions",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ita.super_cup": {
+  "name": "Italian Supercoppa",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ger.super_cup": {
+  "name": "German Supercup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ned.1": {
+  "name": "Dutch Eredivisie",
+  "hist": 273,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.w.1": {
+  "name": "English Women's Super League",
+  "hist": 121,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.2": {
+  "name": "English League Championship",
+  "hist": 491,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.w.promotion.relegation": {
+  "name": "English Women's Super League Promotion/Relegation Playoff",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.wworldq.uefa": {
+  "name": "FIFA Women's World Cup Qualifying - UEFA",
+  "hist": 182,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.friendly.w": {
+  "name": "Women's International Friendly",
+  "hist": 113,
+  "today": 0,
+  "predicted": 0
+ },
+ "usa.open": {
+  "name": "U.S. Open Cup",
+  "hist": 78,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.nations.league": {
+  "name": "Concacaf Nations League",
+  "hist": 74,
+  "today": 0,
+  "predicted": 0
+ },
+ "conmebol.libertadores": {
+  "name": "CONMEBOL Libertadores",
+  "hist": 153,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.champions": {
+  "name": "Concacaf Champions Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.worldq.uefa": {
+  "name": "FIFA World Cup Qualifying - UEFA",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.wcq.ply": {
+  "name": "FIFA World Cup Qualifying - Playoff Tournament",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.worldq.concacaf": {
+  "name": "FIFA World Cup Qualifying - Concacaf",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.worldq.afc": {
+  "name": "FIFA World Cup Qualifying - AFC",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.worldq.caf": {
+  "name": "FIFA World Cup Qualifying - CAF",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.worldq.conmebol": {
+  "name": "FIFA World Cup Qualifying - CONMEBOL",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.worldq.ofc": {
+  "name": "FIFA World Cup Qualifying - OFC",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.wwcq.ply": {
+  "name": "FIFA Women's World Cup Qualifying - Playoff Tournament",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.w.nations": {
+  "name": "UEFA Women's Nations League",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "usa.w.usl.1": {
+  "name": "USL Super League",
+  "hist": 110,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.champions_qual": {
+  "name": "UEFA Champions League Qualifying",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.wchampions_qual": {
+  "name": "UEFA Women's Champions League Qualifying",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.w.fa": {
+  "name": "English Women's FA Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.w.league_cup": {
+  "name": "English WSL Players Cup",
+  "hist": 28,
+  "today": 7,
+  "predicted": 2
+ },
+ "esp.w.1": {
+  "name": "Spanish Liga F",
+  "hist": 200,
+  "today": 0,
+  "predicted": 0
+ },
+ "esp.copa_de_la_reina": {
+  "name": "Spanish Copa de la Reina",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fra.w.1": {
+  "name": "French Premi\u00e8re Ligue",
+  "hist": 117,
+  "today": 0,
+  "predicted": 0
+ },
+ "ned.cup": {
+  "name": "Dutch KNVB Beker",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "sco.1": {
+  "name": "Scottish Premiership",
+  "hist": 206,
+  "today": 0,
+  "predicted": 0
+ },
+ "sco.tennents": {
+  "name": "Scottish Cup",
+  "hist": 81,
+  "today": 0,
+  "predicted": 0
+ },
+ "sco.cis": {
+  "name": "Scottish League Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "aus.1": {
+  "name": "Australian A-League Men",
+  "hist": 138,
+  "today": 0,
+  "predicted": 0
+ },
+ "aus.w.1": {
+  "name": "Australian A-League Women",
+  "hist": 103,
+  "today": 0,
+  "predicted": 0
+ },
+ "ksa.1": {
+  "name": "Saudi Pro League",
+  "hist": 310,
+  "today": 0,
+  "predicted": 0
+ },
+ "ksa.kings.cup": {
+  "name": "Saudi King's Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "por.1": {
+  "name": "Portuguese Primeira Liga",
+  "hist": 279,
+  "today": 0,
+  "predicted": 0
+ },
+ "por.taca.portugal": {
+  "name": "Taca de Portugal",
+  "hist": 131,
+  "today": 0,
+  "predicted": 0
+ },
+ "tur.1": {
+  "name": "Turkish Super Lig",
+  "hist": 261,
+  "today": 0,
+  "predicted": 0
+ },
+ "caf.nations": {
+  "name": "Africa Cup of Nations",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "afc.champions": {
+  "name": "AFC Champions League Elite",
+  "hist": 89,
+  "today": 0,
+  "predicted": 0
+ },
+ "caf.nations_qual": {
+  "name": "Africa Cup of Nations Qualifying",
+  "hist": 60,
+  "today": 0,
+  "predicted": 0
+ },
+ "afc.cup": {
+  "name": "AFC Champions League Two",
+  "hist": 85,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.cwc": {
+  "name": "FIFA Club World Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.olympics": {
+  "name": "Men's Olympic Soccer Tournament",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.w.olympics": {
+  "name": "Women's Olympic Soccer Tournament",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.gold": {
+  "name": "Concacaf Gold Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.gold_qual": {
+  "name": "Concacaf Gold Cup Qualifying",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.w.gold": {
+  "name": "Concacaf W Gold Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.confederations_playoff": {
+  "name": "Concacaf Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.w.champions_cup": {
+  "name": "Concacaf W Champions Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.womens.championship": {
+  "name": "Concacaf W Championship",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.euro": {
+  "name": "UEFA European Championship",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.euroq": {
+  "name": "UEFA European Championship Qualifying",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.weuro": {
+  "name": "UEFA Women's European Championship",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.euro_u21": {
+  "name": "UEFA European Under-21 Championship",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.super_cup": {
+  "name": "UEFA Super Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "conmebol.america": {
+  "name": "Copa Am\u00e9rica",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "conmebol.america.femenina": {
+  "name": "Copa Am\u00e9rica Femenina",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "usa.usl.1": {
+  "name": "USL Championship",
+  "hist": 361,
+  "today": 1,
+  "predicted": 1
+ },
+ "usa.usl.l1": {
+  "name": "USL League One",
+  "hist": 262,
+  "today": 1,
+  "predicted": 1
+ },
+ "usa.usl.l1.cup": {
+  "name": "USL Cup",
+  "hist": 91,
+  "today": 0,
+  "predicted": 0
+ },
+ "mex.2": {
+  "name": "Mexican Liga de Expansi\u00f3n MX",
+  "hist": 227,
+  "today": 0,
+  "predicted": 0
+ },
+ "mex.w.1": {
+  "name": "Mexican Liga BBVA MX Femenil",
+  "hist": 98,
+  "today": 0,
+  "predicted": 0
+ },
+ "global.finalissima": {
+  "name": "CONMEBOL-UEFA Cup of Champions",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "global.u20.intercontinental_cup": {
+  "name": "CONMEBOL-UEFA U20 Intercontinental Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "global.w.finalissima": {
+  "name": "CONMEBOL-UEFA Women's Cup of Champions",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.world.u20": {
+  "name": "FIFA Under-20 World Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "afc.asian.cup": {
+  "name": "AFC Asian Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "afc.w.asian.cup": {
+  "name": "AFC Women's Asian Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "afc.cupq": {
+  "name": "AFC Asian Cup Qualifiers",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "aff.championship": {
+  "name": "ASEAN Championship",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "caf.w.nations": {
+  "name": "Women's Africa Cup of Nations",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "caf.championship": {
+  "name": "African Nations Championship",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "can.w.nsl": {
+  "name": "Northern Super League",
+  "hist": 72,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.europa_qual": {
+  "name": "UEFA Europa League Qualifying",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.europa.conf_qual": {
+  "name": "UEFA Conference League Qualifying",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.w.europa": {
+  "name": "UEFA Women's Europa Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.intercontinental_cup": {
+  "name": "FIFA Intercontinental Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "afc.champions_qual": {
+  "name": "AFC Champions League Elite Qualifying",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "afc.cup_qual": {
+  "name": "AFC Champions League Two Qualifying",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "club.friendly": {
+  "name": "Club Friendly",
+  "hist": 764,
+  "today": 1,
+  "predicted": 0
+ },
+ "nonfifa": {
+  "name": "Non-FIFA Friendly",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "rus.1": {
+  "name": "Russian Premier League",
+  "hist": 200,
+  "today": 0,
+  "predicted": 0
+ },
+ "rus.1.promotion.relegation": {
+  "name": "Russian Premier League Relegation/Promotion Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "bel.1": {
+  "name": "Belgian Pro League",
+  "hist": 265,
+  "today": 0,
+  "predicted": 0
+ },
+ "bel.promotion.relegation": {
+  "name": "Belgian Pro League Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "esp.2": {
+  "name": "Spanish LALIGA 2",
+  "hist": 414,
+  "today": 0,
+  "predicted": 0
+ },
+ "ger.2": {
+  "name": "German 2. Bundesliga",
+  "hist": 261,
+  "today": 0,
+  "predicted": 0
+ },
+ "ita.2": {
+  "name": "Italian Serie B",
+  "hist": 331,
+  "today": 0,
+  "predicted": 0
+ },
+ "fra.1.promotion.relegation": {
+  "name": "French Ligue 1 Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fra.2": {
+  "name": "French Ligue 2",
+  "hist": 252,
+  "today": 0,
+  "predicted": 0
+ },
+ "por.1.promotion.relegation": {
+  "name": "Portuguese Primeira Liga Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "aut.1": {
+  "name": "Austrian Bundesliga",
+  "hist": 166,
+  "today": 0,
+  "predicted": 0
+ },
+ "gre.1": {
+  "name": "Greek Super League",
+  "hist": 208,
+  "today": 0,
+  "predicted": 0
+ },
+ "chn.1": {
+  "name": "Chinese Super League",
+  "hist": 224,
+  "today": 0,
+  "predicted": 0
+ },
+ "global.club_challenge": {
+  "name": "CONMEBOL-UEFA Club Challenge",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ned.supercup": {
+  "name": "Dutch Johan Cruyff Shield",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "global.pinatar_cup": {
+  "name": "Pinatar Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "friendly.emirates_cup": {
+  "name": "Emirates Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "esp.joan_gamper": {
+  "name": "Trofeo Joan Gamper",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "jpn.world_challenge": {
+  "name": "Japanese J.League World Challenge",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "global.arnold.clark_cup": {
+  "name": "Arnold Clark Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.conmebol.olympicsq": {
+  "name": "CONMEBOL Pre-Olympic Tournament",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.concacaf.olympicsq": {
+  "name": "Men's Olympic Qualifying Playoff",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.w.concacaf.olympicsq": {
+  "name": "Concacaf Women's Olympic Qualifying",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.world.u17": {
+  "name": "FIFA Under-17 World Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.wworld.u17": {
+  "name": "FIFA Under-17 Women's World Cup",
+  "hist": 16,
+  "today": 4,
+  "predicted": 0
+ },
+ "uefa.euro_u21_qual": {
+  "name": "UEFA European Under-21 Championship Qualifying",
+  "hist": 113,
+  "today": 0,
+  "predicted": 0
+ },
+ "uefa.euro.u19": {
+  "name": "UEFA European Under-19 Championship",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.friendly_u21": {
+  "name": "Under-21 International Friendly",
+  "hist": 9,
+  "today": 0,
+  "predicted": 0
+ },
+ "ger.2.promotion.relegation": {
+  "name": "German Bundesliga 2. Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.trophy": {
+  "name": "English EFL Trophy",
+  "hist": 95,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.3": {
+  "name": "English League One",
+  "hist": 488,
+  "today": 1,
+  "predicted": 1
+ },
+ "eng.4": {
+  "name": "English League Two",
+  "hist": 491,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.5": {
+  "name": "English National League",
+  "hist": 474,
+  "today": 0,
+  "predicted": 0
+ },
+ "eng.fa_qual": {
+  "name": "English FA Cup Qualifying",
+  "hist": 623,
+  "today": 0,
+  "predicted": 0
+ },
+ "sco.1.promotion.relegation": {
+  "name": "Scottish Premiership Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "sco.2": {
+  "name": "Scottish Championship",
+  "hist": 155,
+  "today": 0,
+  "predicted": 0
+ },
+ "sco.2.promotion.relegation": {
+  "name": "Scottish Championship Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "sco.challenge": {
+  "name": "Scottish League Challenge Cup",
+  "hist": 151,
+  "today": 0,
+  "predicted": 0
+ },
+ "sco.tennents_qual": {
+  "name": "Scottish Cup Qualifying",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ned.playoff.relegation": {
+  "name": "Dutch Eredivisie Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ned.2": {
+  "name": "Dutch Keuken Kampioen Divisie",
+  "hist": 322,
+  "today": 0,
+  "predicted": 0
+ },
+ "ned.3.promotion.relegation": {
+  "name": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ned.w.knvb_cup": {
+  "name": "Dutch KNVB Beker Vrouwen",
+  "hist": 55,
+  "today": 1,
+  "predicted": 0
+ },
+ "ned.w.1": {
+  "name": "Dutch Vrouwen Eredivisie",
+  "hist": 119,
+  "today": 0,
+  "predicted": 0
+ },
+ "swe.1": {
+  "name": "Swedish Allsvenskan",
+  "hist": 192,
+  "today": 0,
+  "predicted": 0
+ },
+ "swe.1.promotion.relegation": {
+  "name": "Swedish Allsvenskan Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "den.1": {
+  "name": "Danish Superliga",
+  "hist": 163,
+  "today": 0,
+  "predicted": 0
+ },
+ "nor.1.promotion.relegation": {
+  "name": "Norwegian Eliteserien Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "nor.1": {
+  "name": "Norwegian Eliteserien",
+  "hist": 192,
+  "today": 0,
+  "predicted": 0
+ },
+ "conmebol.sudamericana": {
+  "name": "CONMEBOL Sudamericana",
+  "hist": 155,
+  "today": 1,
+  "predicted": 1
+ },
+ "conmebol.recopa": {
+  "name": "CONMEBOL Recopa",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "arg.1": {
+  "name": "Argentine Liga Profesional de F\u00fatbol",
+  "hist": 458,
+  "today": 0,
+  "predicted": 0
+ },
+ "arg.copa": {
+  "name": "Copa Argentina",
+  "hist": 60,
+  "today": 0,
+  "predicted": 0
+ },
+ "arg.copa_de_la_superliga": {
+  "name": "Argentine Copa de la Superliga",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "arg.trofeo_de_la_campeones": {
+  "name": "Argentine Trofeo de Campeones",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "arg.2": {
+  "name": "Argentine Nacional B",
+  "hist": 612,
+  "today": 0,
+  "predicted": 0
+ },
+ "arg.supercopa": {
+  "name": "Argentine Supercopa",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "arg.supercopa.internacional": {
+  "name": "Argentine Supercopa Internacional",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "arg.3": {
+  "name": "Argentine Primera B",
+  "hist": 450,
+  "today": 0,
+  "predicted": 0
+ },
+ "bra.supercopa_do_brazil": {
+  "name": "Brazilian Supercopa Rei",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "bra.1": {
+  "name": "Brazilian Serie A",
+  "hist": 338,
+  "today": 0,
+  "predicted": 0
+ },
+ "bra.2": {
+  "name": "Brazilian Serie B",
+  "hist": 340,
+  "today": 0,
+  "predicted": 0
+ },
+ "bra.copa_do_brazil": {
+  "name": "Copa do Brasil",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "bra.camp.carioca": {
+  "name": "Brazilian Campeonato Carioca",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "bra.camp.paulista": {
+  "name": "Brazilian Campeonato Paulista",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "bra.camp.gaucho": {
+  "name": "Brazilian Campeonato Gaucho",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "bra.camp.mineiro": {
+  "name": "Brazilian Campeonato Mineiro",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "chi.super_cup": {
+  "name": "Chilean Supercopa",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "chi.1": {
+  "name": "Chilean Primera Divisi\u00f3n",
+  "hist": 207,
+  "today": 0,
+  "predicted": 0
+ },
+ "chi.1.promotion.relegation": {
+  "name": "Chilean Primera Divisi\u00f3n Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "chi.copa_chi": {
+  "name": "Copa Chile",
+  "hist": 117,
+  "today": 1,
+  "predicted": 1
+ },
+ "uru.1": {
+  "name": "Liga AUF Uruguaya",
+  "hist": 266,
+  "today": 0,
+  "predicted": 0
+ },
+ "uru.2": {
+  "name": "Segunda Divisi\u00f3n de Uruguay",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "col.superliga": {
+  "name": "Colombian Superliga",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "col.1": {
+  "name": "Colombian Primera A",
+  "hist": 361,
+  "today": 0,
+  "predicted": 0
+ },
+ "col.copa": {
+  "name": "Copa Colombia",
+  "hist": 68,
+  "today": 0,
+  "predicted": 0
+ },
+ "per.1": {
+  "name": "Peruvian Liga 1",
+  "hist": 265,
+  "today": 0,
+  "predicted": 0
+ },
+ "par.1": {
+  "name": "Paraguayan Primera Divisi\u00f3n",
+  "hist": 228,
+  "today": 0,
+  "predicted": 0
+ },
+ "par.1.supercopa": {
+  "name": "Paraguayan Supercopa",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ecu.1": {
+  "name": "LigaPro Ecuador",
+  "hist": 290,
+  "today": 0,
+  "predicted": 0
+ },
+ "ven.1": {
+  "name": "Venezuelan Primera Divisi\u00f3n",
+  "hist": 208,
+  "today": 0,
+  "predicted": 0
+ },
+ "bol.ply.rel": {
+  "name": "Bolivian Liga Profesional Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "bol.copa": {
+  "name": "Copa Bolivia",
+  "hist": 74,
+  "today": 1,
+  "predicted": 1
+ },
+ "bol.1": {
+  "name": "Bolivian Liga Profesional",
+  "hist": 216,
+  "today": 0,
+  "predicted": 0
+ },
+ "jpn.1": {
+  "name": "Japanese J.League",
+  "hist": 320,
+  "today": 10,
+  "predicted": 10
+ },
+ "mex.campeon": {
+  "name": "Mexican Campeon de Campeones",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.central.american.cup": {
+  "name": "Concacaf Central American Cup",
+  "hist": 51,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.champions_cup": {
+  "name": "CONCACAF Champions Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "concacaf.u23": {
+  "name": "CONCACAF U23 Tournament",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "hon.1": {
+  "name": "Honduran Liga Nacional",
+  "hist": 213,
+  "today": 0,
+  "predicted": 0
+ },
+ "crc.1": {
+  "name": "Costa Rican Primera Division",
+  "hist": 172,
+  "today": 0,
+  "predicted": 0
+ },
+ "gua.1": {
+  "name": "Guatemalan Liga Nacional",
+  "hist": 255,
+  "today": 1,
+  "predicted": 1
+ },
+ "slv.1": {
+  "name": "Salvadoran Primera Division",
+  "hist": 248,
+  "today": 0,
+  "predicted": 0
+ },
+ "fifa.intercontinental.cup": {
+  "name": "Intercontinental Cup (India)",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "afc.saff.championship": {
+  "name": "SAFF Championship",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "chn.1.promotion.relegation": {
+  "name": "Chinese Super League Promotion/Relegation Playoffs",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "ind.1": {
+  "name": "Indian Super League",
+  "hist": 103,
+  "today": 0,
+  "predicted": 0
+ },
+ "ind.2": {
+  "name": "Indian I-League",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "global.gulf_cup": {
+  "name": "Arabian Gulf Cup",
+  "hist": 15,
+  "today": 0,
+  "predicted": 0
+ },
+ "caf.cosafa": {
+  "name": "COSAFA Cup",
+  "hist": 0,
+  "today": 0,
+  "predicted": 0
+ },
+ "caf.champions": {
+  "name": "CAF Champions League",
+  "hist": 127,
+  "today": 2,
+  "predicted": 0
+ },
+ "caf.confed": {
+  "name": "CAF Confederation Cup",
+  "hist": 115,
+  "today": 0,
+  "predicted": 0
+ },
+ "rsa.1": {
+  "name": "South African Premiership",
+  "hist": 207,
+  "today": 0,
+  "predicted": 0
+ },
+ "usa.ncaa.m.1": {
+  "name": "NCAA Men's Soccer",
+  "hist": 1464,
+  "today": 7,
+  "predicted": 6
+ },
+ "usa.ncaa.w.1": {
+  "name": "NCAA Women's Soccer",
+  "hist": 2347,
+  "today": 7,
+  "predicted": 7
+ }
+}
