@@ -122,14 +122,14 @@
  "uefa.europa": {
   "name": "UEFA Europa League",
   "hist": 153,
-  "today": 18,
-  "predicted": 15
+  "today": 10,
+  "predicted": 9
  },
  "uefa.europa.conf": {
   "name": "UEFA Conference League",
-  "hist": 117,
-  "today": 18,
-  "predicted": 6
+  "hist": 118,
+  "today": 8,
+  "predicted": 4
  },
  "ita.1": {
   "name": "Italian Serie A",
@@ -397,9 +397,9 @@
  },
  "ksa.1": {
   "name": "Saudi Pro League",
-  "hist": 310,
-  "today": 3,
-  "predicted": 3
+  "hist": 312,
+  "today": 0,
+  "predicted": 0
  },
  "ksa.kings.cup": {
   "name": "Saudi King's Cup",
@@ -836,7 +836,7 @@
  "fifa.wworld.u17": {
   "name": "FIFA Under-17 Women's World Cup",
   "hist": 20,
-  "today": 4,
+  "today": 2,
   "predicted": 0
  },
  "uefa.euro_u21_qual": {
