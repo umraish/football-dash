@@ -121,15 +121,15 @@
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
-  "hist": 153,
-  "today": 10,
-  "predicted": 9
+  "hist": 166,
+  "today": 0,
+  "predicted": 0
  },
  "uefa.europa.conf": {
   "name": "UEFA Conference League",
-  "hist": 118,
-  "today": 8,
-  "predicted": 4
+  "hist": 133,
+  "today": 0,
+  "predicted": 0
  },
  "ita.1": {
   "name": "Italian Serie A",
@@ -835,8 +835,8 @@
  },
  "fifa.wworld.u17": {
   "name": "FIFA Under-17 Women's World Cup",
-  "hist": 20,
-  "today": 2,
+  "hist": 24,
+  "today": 0,
   "predicted": 0
  },
  "uefa.euro_u21_qual": {
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1488,
-  "today": 1,
-  "predicted": 1
+  "hist": 1489,
+  "today": 0,
+  "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2367,
-  "today": 24,
-  "predicted": 24
+  "hist": 2370,
+  "today": 14,
+  "predicted": 14
  }
 }
