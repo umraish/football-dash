@@ -397,9 +397,9 @@
  },
  "ksa.1": {
   "name": "Saudi Pro League",
-  "hist": 312,
-  "today": 4,
-  "predicted": 4
+  "hist": 313,
+  "today": 2,
+  "predicted": 2
  },
  "ksa.kings.cup": {
   "name": "Saudi King's Cup",
@@ -692,8 +692,8 @@
  "rus.1": {
   "name": "Russian Premier League",
   "hist": 200,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "rus.1.promotion.relegation": {
   "name": "Russian Premier League Relegation/Promotion Playoffs",
@@ -722,8 +722,8 @@
  "ger.2": {
   "name": "German 2. Bundesliga",
   "hist": 261,
-  "today": 2,
-  "predicted": 2
+  "today": 0,
+  "predicted": 0
  },
  "ita.2": {
   "name": "Italian Serie B",
@@ -836,7 +836,7 @@
  "fifa.wworld.u17": {
   "name": "FIFA Under-17 Women's World Cup",
   "hist": 24,
-  "today": 4,
+  "today": 2,
   "predicted": 0
  },
  "uefa.euro_u21_qual": {
@@ -1267,9 +1267,9 @@
  },
  "ind.1": {
   "name": "Indian Super League",
-  "hist": 103,
-  "today": 1,
-  "predicted": 1
+  "hist": 104,
+  "today": 0,
+  "predicted": 0
  },
  "ind.2": {
   "name": "Indian I-League",
@@ -1291,8 +1291,8 @@
  },
  "caf.champions": {
   "name": "CAF Champions League",
-  "hist": 129,
-  "today": 4,
+  "hist": 130,
+  "today": 3,
   "predicted": 0
  },
  "caf.confed": {
