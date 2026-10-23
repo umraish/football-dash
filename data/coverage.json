@@ -247,7 +247,7 @@
  },
  "conmebol.libertadores": {
   "name": "CONMEBOL Libertadores",
-  "hist": 154,
+  "hist": 155,
   "today": 0,
   "predicted": 0
  },
@@ -385,9 +385,9 @@
  },
  "aus.1": {
   "name": "Australian A-League Men",
-  "hist": 138,
-  "today": 1,
-  "predicted": 1
+  "hist": 139,
+  "today": 0,
+  "predicted": 0
  },
  "aus.w.1": {
   "name": "Australian A-League Women",
@@ -565,13 +565,13 @@
  },
  "mex.2": {
   "name": "Mexican Liga de Expansi\u00f3n MX",
-  "hist": 227,
+  "hist": 228,
   "today": 0,
   "predicted": 0
  },
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
-  "hist": 98,
+  "hist": 99,
   "today": 0,
   "predicted": 0
  },
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 360,
+  "hist": 361,
   "today": 0,
   "predicted": 0
  },
@@ -1183,7 +1183,7 @@
  },
  "bol.copa": {
   "name": "Copa Bolivia",
-  "hist": 73,
+  "hist": 74,
   "today": 0,
   "predicted": 0
  },
@@ -1207,7 +1207,7 @@
  },
  "concacaf.central.american.cup": {
   "name": "Concacaf Central American Cup",
-  "hist": 52,
+  "hist": 53,
   "today": 0,
   "predicted": 0
  },
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1489,
+  "hist": 1491,
   "today": 0,
   "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2421,
-  "today": 10,
-  "predicted": 10
+  "hist": 2445,
+  "today": 5,
+  "predicted": 5
  }
 }
