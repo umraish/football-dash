@@ -67,9 +67,9 @@
  },
  "usa.nwsl": {
   "name": "NWSL",
-  "hist": 224,
-  "today": 2,
-  "predicted": 2
+  "hist": 227,
+  "today": 1,
+  "predicted": 1
  },
  "esp.super_cup": {
   "name": "Spanish Supercopa",
@@ -169,9 +169,9 @@
  },
  "mex.1": {
   "name": "Mexican Liga BBVA MX",
-  "hist": 292,
-  "today": 1,
-  "predicted": 1
+  "hist": 294,
+  "today": 0,
+  "predicted": 0
  },
  "fra.coupe_de_france": {
   "name": "Coupe de France",
@@ -344,8 +344,8 @@
  "esp.w.1": {
   "name": "Spanish Liga F",
   "hist": 201,
-  "today": 5,
-  "predicted": 5
+  "today": 3,
+  "predicted": 3
  },
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
@@ -356,7 +356,7 @@
  "fra.w.1": {
   "name": "French Premi\u00e8re Ligue",
   "hist": 118,
-  "today": 5,
+  "today": 4,
   "predicted": 3
  },
  "ned.cup": {
@@ -385,15 +385,15 @@
  },
  "aus.1": {
   "name": "Australian A-League Men",
-  "hist": 137,
-  "today": 3,
-  "predicted": 3
+  "hist": 139,
+  "today": 0,
+  "predicted": 0
  },
  "aus.w.1": {
   "name": "Australian A-League Women",
-  "hist": 103,
-  "today": 3,
-  "predicted": 3
+  "hist": 106,
+  "today": 0,
+  "predicted": 0
  },
  "ksa.1": {
   "name": "Saudi Pro League",
@@ -565,15 +565,15 @@
  },
  "mex.2": {
   "name": "Mexican Liga de Expansi\u00f3n MX",
-  "hist": 228,
+  "hist": 229,
   "today": 0,
   "predicted": 0
  },
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
-  "hist": 99,
-  "today": 1,
-  "predicted": 1
+  "hist": 100,
+  "today": 0,
+  "predicted": 0
  },
  "global.finalissima": {
   "name": "CONMEBOL-UEFA Cup of Champions",
@@ -692,8 +692,8 @@
  "rus.1": {
   "name": "Russian Premier League",
   "hist": 201,
-  "today": 4,
-  "predicted": 4
+  "today": 3,
+  "predicted": 3
  },
  "rus.1.promotion.relegation": {
   "name": "Russian Premier League Relegation/Promotion Playoffs",
@@ -763,9 +763,9 @@
  },
  "chn.1": {
   "name": "Chinese Super League",
-  "hist": 224,
-  "today": 8,
-  "predicted": 8
+  "hist": 232,
+  "today": 0,
+  "predicted": 0
  },
  "global.club_challenge": {
   "name": "CONMEBOL-UEFA Club Challenge",
@@ -997,7 +997,7 @@
  },
  "arg.1": {
   "name": "Argentine Liga Profesional de F\u00fatbol",
-  "hist": 459,
+  "hist": 460,
   "today": 3,
   "predicted": 3
  },
@@ -1057,7 +1057,7 @@
  },
  "bra.2": {
   "name": "Brazilian Serie B",
-  "hist": 341,
+  "hist": 342,
   "today": 5,
   "predicted": 5
  },
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 362,
+  "hist": 363,
   "today": 0,
   "predicted": 0
  },
@@ -1195,9 +1195,9 @@
  },
  "jpn.1": {
   "name": "Japanese J.League",
-  "hist": 330,
-  "today": 5,
-  "predicted": 5
+  "hist": 335,
+  "today": 0,
+  "predicted": 0
  },
  "mex.campeon": {
   "name": "Mexican Campeon de Campeones",
@@ -1225,15 +1225,15 @@
  },
  "hon.1": {
   "name": "Honduran Liga Nacional",
-  "hist": 208,
+  "hist": 209,
   "today": 1,
   "predicted": 1
  },
  "crc.1": {
   "name": "Costa Rican Primera Division",
-  "hist": 172,
-  "today": 1,
-  "predicted": 1
+  "hist": 173,
+  "today": 0,
+  "predicted": 0
  },
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
@@ -1243,7 +1243,7 @@
  },
  "slv.1": {
   "name": "Salvadoran Primera Division",
-  "hist": 249,
+  "hist": 250,
   "today": 2,
   "predicted": 2
  },
@@ -1309,13 +1309,13 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1498,
+  "hist": 1503,
   "today": 40,
   "predicted": 40
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2452,
+  "hist": 2456,
   "today": 23,
   "predicted": 23
  }
