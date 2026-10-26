@@ -61,7 +61,7 @@
  },
  "usa.1": {
   "name": "MLS",
-  "hist": 467,
+  "hist": 468,
   "today": 0,
   "predicted": 0
  },
@@ -169,9 +169,9 @@
  },
  "mex.1": {
   "name": "Mexican Liga BBVA MX",
-  "hist": 294,
-  "today": 1,
-  "predicted": 1
+  "hist": 297,
+  "today": 0,
+  "predicted": 0
  },
  "fra.coupe_de_france": {
   "name": "Coupe de France",
@@ -571,7 +571,7 @@
  },
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
-  "hist": 104,
+  "hist": 105,
   "today": 1,
   "predicted": 1
  },
@@ -997,7 +997,7 @@
  },
  "arg.1": {
   "name": "Argentine Liga Profesional de F\u00fatbol",
-  "hist": 465,
+  "hist": 467,
   "today": 1,
   "predicted": 1
  },
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 365,
+  "hist": 366,
   "today": 0,
   "predicted": 0
  },
@@ -1171,7 +1171,7 @@
  },
  "ven.1": {
   "name": "Venezuelan Primera Divisi\u00f3n",
-  "hist": 210,
+  "hist": 211,
   "today": 0,
   "predicted": 0
  },
@@ -1225,19 +1225,19 @@
  },
  "hon.1": {
   "name": "Honduran Liga Nacional",
-  "hist": 213,
+  "hist": 214,
   "today": 0,
   "predicted": 0
  },
  "crc.1": {
   "name": "Costa Rican Primera Division",
-  "hist": 171,
+  "hist": 172,
   "today": 0,
   "predicted": 0
  },
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
-  "hist": 255,
+  "hist": 256,
   "today": 0,
   "predicted": 0
  },
@@ -1309,13 +1309,13 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1581,
+  "hist": 1584,
   "today": 0,
   "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2597,
+  "hist": 2598,
   "today": 0,
   "predicted": 0
  }
