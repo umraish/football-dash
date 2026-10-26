@@ -37,9 +37,9 @@
  },
  "esp.1": {
   "name": "Spanish LALIGA",
-  "hist": 339,
-  "today": 1,
-  "predicted": 1
+  "hist": 340,
+  "today": 0,
+  "predicted": 0
  },
  "eng.charity": {
   "name": "English FA Community Shield",
@@ -163,9 +163,9 @@
  },
  "fra.1": {
   "name": "French Ligue 1",
-  "hist": 250,
-  "today": 1,
-  "predicted": 1
+  "hist": 251,
+  "today": 0,
+  "predicted": 0
  },
  "mex.1": {
   "name": "Mexican Liga BBVA MX",
@@ -409,9 +409,9 @@
  },
  "por.1": {
   "name": "Portuguese Primeira Liga",
-  "hist": 279,
-  "today": 1,
-  "predicted": 1
+  "hist": 280,
+  "today": 0,
+  "predicted": 0
  },
  "por.taca.portugal": {
   "name": "Taca de Portugal",
@@ -421,9 +421,9 @@
  },
  "tur.1": {
   "name": "Turkish Super Lig",
-  "hist": 262,
-  "today": 1,
-  "predicted": 1
+  "hist": 263,
+  "today": 0,
+  "predicted": 0
  },
  "caf.nations": {
   "name": "Africa Cup of Nations",
@@ -433,7 +433,7 @@
  },
  "afc.champions": {
   "name": "AFC Champions League Elite",
-  "hist": 90,
+  "hist": 92,
   "today": 0,
   "predicted": 0
  },
@@ -572,8 +572,8 @@
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
   "hist": 105,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "global.finalissima": {
   "name": "CONMEBOL-UEFA Cup of Champions",
@@ -715,9 +715,9 @@
  },
  "esp.2": {
   "name": "Spanish LALIGA 2",
-  "hist": 412,
-  "today": 1,
-  "predicted": 1
+  "hist": 413,
+  "today": 0,
+  "predicted": 0
  },
  "ger.2": {
   "name": "German 2. Bundesliga",
@@ -739,9 +739,9 @@
  },
  "fra.2": {
   "name": "French Ligue 2",
-  "hist": 259,
-  "today": 2,
-  "predicted": 2
+  "hist": 261,
+  "today": 0,
+  "predicted": 0
  },
  "por.1.promotion.relegation": {
   "name": "Portuguese Primeira Liga Promotion/Relegation Playoffs",
@@ -877,9 +877,9 @@
  },
  "eng.4": {
   "name": "English League Two",
-  "hist": 490,
-  "today": 1,
-  "predicted": 1
+  "hist": 491,
+  "today": 0,
+  "predicted": 0
  },
  "eng.5": {
   "name": "English National League",
@@ -967,7 +967,7 @@
  },
  "den.1": {
   "name": "Danish Superliga",
-  "hist": 163,
+  "hist": 164,
   "today": 0,
   "predicted": 0
  },
@@ -1021,9 +1021,9 @@
  },
  "arg.2": {
   "name": "Argentine Nacional B",
-  "hist": 628,
-  "today": 1,
-  "predicted": 1
+  "hist": 629,
+  "today": 0,
+  "predicted": 0
  },
  "arg.supercopa": {
   "name": "Argentine Supercopa",
@@ -1039,7 +1039,7 @@
  },
  "arg.3": {
   "name": "Argentine Primera B",
-  "hist": 457,
+  "hist": 458,
   "today": 1,
   "predicted": 1
  },
@@ -1100,8 +1100,8 @@
  "chi.1": {
   "name": "Chilean Primera Divisi\u00f3n",
   "hist": 208,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "chi.1.promotion.relegation": {
   "name": "Chilean Primera Divisi\u00f3n Promotion/Relegation Playoffs",
@@ -1166,8 +1166,8 @@
  "ecu.1": {
   "name": "LigaPro Ecuador",
   "hist": 289,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "ven.1": {
   "name": "Venezuelan Primera Divisi\u00f3n",
