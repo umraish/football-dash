@@ -434,8 +434,8 @@
  "afc.champions": {
   "name": "AFC Champions League Elite",
   "hist": 92,
-  "today": 8,
-  "predicted": 3
+  "today": 4,
+  "predicted": 1
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
@@ -571,7 +571,7 @@
  },
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
-  "hist": 107,
+  "hist": 108,
   "today": 0,
   "predicted": 0
  },
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 366,
+  "hist": 367,
   "today": 0,
   "predicted": 0
  },
@@ -1310,8 +1310,8 @@
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
   "hist": 1585,
-  "today": 5,
-  "predicted": 5
+  "today": 6,
+  "predicted": 6
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
