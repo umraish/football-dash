@@ -433,9 +433,9 @@
  },
  "afc.champions": {
   "name": "AFC Champions League Elite",
-  "hist": 100,
-  "today": 2,
-  "predicted": 1
+  "hist": 102,
+  "today": 0,
+  "predicted": 0
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 368,
+  "hist": 369,
   "today": 0,
   "predicted": 0
  },
@@ -1207,7 +1207,7 @@
  },
  "concacaf.central.american.cup": {
   "name": "Concacaf Central American Cup",
-  "hist": 53,
+  "hist": 54,
   "today": 0,
   "predicted": 0
  },
@@ -1309,7 +1309,7 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1597,
+  "hist": 1598,
   "today": 6,
   "predicted": 5
  },
