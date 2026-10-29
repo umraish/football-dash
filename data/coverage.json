@@ -31,9 +31,9 @@
  },
  "eng.league_cup": {
   "name": "English Carabao Cup",
-  "hist": 92,
-  "today": 1,
-  "predicted": 1
+  "hist": 93,
+  "today": 0,
+  "predicted": 0
  },
  "esp.1": {
   "name": "Spanish LALIGA",
@@ -79,8 +79,8 @@
  },
  "esp.copa_del_rey": {
   "name": "Spanish Copa del Rey",
-  "hist": 81,
-  "today": 16,
+  "hist": 102,
+  "today": 0,
   "predicted": 0
  },
  "concacaf.leagues.cup": {
@@ -115,9 +115,9 @@
  },
  "uefa.wchampions": {
   "name": "UEFA Women's Champions League",
-  "hist": 62,
-  "today": 2,
-  "predicted": 1
+  "hist": 66,
+  "today": 0,
+  "predicted": 0
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
@@ -133,9 +133,9 @@
  },
  "ita.1": {
   "name": "Italian Serie A",
-  "hist": 338,
-  "today": 1,
-  "predicted": 1
+  "hist": 340,
+  "today": 0,
+  "predicted": 0
  },
  "ita.coppa_italia": {
   "name": "Coppa Italia",
@@ -361,9 +361,9 @@
  },
  "ned.cup": {
   "name": "Dutch KNVB Beker",
-  "hist": 100,
-  "today": 7,
-  "predicted": 1
+  "hist": 108,
+  "today": 0,
+  "predicted": 0
  },
  "sco.1": {
   "name": "Scottish Premiership",
@@ -397,7 +397,7 @@
  },
  "ksa.1": {
   "name": "Saudi Pro League",
-  "hist": 321,
+  "hist": 323,
   "today": 0,
   "predicted": 0
  },
@@ -655,7 +655,7 @@
  },
  "uefa.w.europa": {
   "name": "UEFA Women's Europa Cup",
-  "hist": 76,
+  "hist": 78,
   "today": 0,
   "predicted": 0
  },
@@ -835,7 +835,7 @@
  },
  "fifa.wworld.u17": {
   "name": "FIFA Under-17 Women's World Cup",
-  "hist": 42,
+  "hist": 44,
   "today": 0,
   "predicted": 0
  },
@@ -955,7 +955,7 @@
  },
  "swe.1": {
   "name": "Swedish Allsvenskan",
-  "hist": 205,
+  "hist": 208,
   "today": 0,
   "predicted": 0
  },
@@ -1147,9 +1147,9 @@
  },
  "per.1": {
   "name": "Peruvian Liga 1",
-  "hist": 278,
-  "today": 1,
-  "predicted": 1
+  "hist": 279,
+  "today": 0,
+  "predicted": 0
  },
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
@@ -1237,7 +1237,7 @@
  },
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
-  "hist": 259,
+  "hist": 260,
   "today": 0,
   "predicted": 0
  },
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1615,
-  "today": 3,
-  "predicted": 3
+  "hist": 1617,
+  "today": 1,
+  "predicted": 1
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2628,
-  "today": 12,
-  "predicted": 12
+  "hist": 2632,
+  "today": 5,
+  "predicted": 5
  }
 }
