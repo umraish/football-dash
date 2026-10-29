@@ -61,9 +61,9 @@
  },
  "usa.1": {
   "name": "MLS",
-  "hist": 477,
-  "today": 3,
-  "predicted": 3
+  "hist": 482,
+  "today": 0,
+  "predicted": 0
  },
  "usa.nwsl": {
   "name": "NWSL",
@@ -169,9 +169,9 @@
  },
  "mex.1": {
   "name": "Mexican Liga BBVA MX",
-  "hist": 295,
-  "today": 1,
-  "predicted": 1
+  "hist": 296,
+  "today": 0,
+  "predicted": 0
  },
  "fra.coupe_de_france": {
   "name": "Coupe de France",
@@ -445,9 +445,9 @@
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
-  "hist": 83,
-  "today": 6,
-  "predicted": 1
+  "hist": 86,
+  "today": 0,
+  "predicted": 0
  },
  "fifa.cwc": {
   "name": "FIFA Club World Cup",
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 368,
+  "hist": 369,
   "today": 0,
   "predicted": 0
  },
@@ -1207,9 +1207,9 @@
  },
  "concacaf.central.american.cup": {
   "name": "Concacaf Central American Cup",
-  "hist": 54,
-  "today": 1,
-  "predicted": 1
+  "hist": 55,
+  "today": 0,
+  "predicted": 0
  },
  "concacaf.champions_cup": {
   "name": "CONCACAF Champions Cup",
@@ -1237,7 +1237,7 @@
  },
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
-  "hist": 258,
+  "hist": 259,
   "today": 1,
   "predicted": 1
  },
@@ -1309,13 +1309,13 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1612,
+  "hist": 1615,
   "today": 3,
   "predicted": 3
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2617,
+  "hist": 2627,
   "today": 14,
   "predicted": 14
  }
