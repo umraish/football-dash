@@ -385,9 +385,9 @@
  },
  "aus.1": {
   "name": "Australian A-League Men",
-  "hist": 138,
-  "today": 1,
-  "predicted": 1
+  "hist": 139,
+  "today": 0,
+  "predicted": 0
  },
  "aus.w.1": {
   "name": "Australian A-League Women",
@@ -565,7 +565,7 @@
  },
  "mex.2": {
   "name": "Mexican Liga de Expansi\u00f3n MX",
-  "hist": 234,
+  "hist": 235,
   "today": 0,
   "predicted": 0
  },
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 368,
+  "hist": 369,
   "today": 1,
   "predicted": 1
  },
@@ -1207,7 +1207,7 @@
  },
  "concacaf.central.american.cup": {
   "name": "Concacaf Central American Cup",
-  "hist": 55,
+  "hist": 56,
   "today": 0,
   "predicted": 0
  },
@@ -1237,7 +1237,7 @@
  },
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
-  "hist": 261,
+  "hist": 262,
   "today": 0,
   "predicted": 0
  },
@@ -1315,7 +1315,7 @@
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2656,
+  "hist": 2659,
   "today": 4,
   "predicted": 4
  }
