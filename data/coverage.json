@@ -397,9 +397,9 @@
  },
  "ksa.1": {
   "name": "Saudi Pro League",
-  "hist": 323,
-  "today": 3,
-  "predicted": 3
+  "hist": 325,
+  "today": 1,
+  "predicted": 1
  },
  "ksa.kings.cup": {
   "name": "Saudi King's Cup",
@@ -422,8 +422,8 @@
  "tur.1": {
   "name": "Turkish Super Lig",
   "hist": 261,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "caf.nations": {
   "name": "Africa Cup of Nations",
@@ -722,8 +722,8 @@
  "ger.2": {
   "name": "German 2. Bundesliga",
   "hist": 261,
-  "today": 2,
-  "predicted": 2
+  "today": 0,
+  "predicted": 0
  },
  "ita.2": {
   "name": "Italian Serie B",
@@ -1267,14 +1267,14 @@
  },
  "ind.1": {
   "name": "Indian Super League",
-  "hist": 109,
-  "today": 1,
-  "predicted": 1
+  "hist": 110,
+  "today": 0,
+  "predicted": 0
  },
  "ind.2": {
   "name": "Indian I-League",
-  "hist": 66,
-  "today": 1,
+  "hist": 67,
+  "today": 0,
   "predicted": 0
  },
  "global.gulf_cup": {
@@ -1304,19 +1304,19 @@
  "rsa.1": {
   "name": "South African Premiership",
   "hist": 195,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
   "hist": 1622,
-  "today": 14,
-  "predicted": 13
+  "today": 13,
+  "predicted": 12
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
   "hist": 2659,
-  "today": 4,
-  "predicted": 4
+  "today": 3,
+  "predicted": 3
  }
 }
