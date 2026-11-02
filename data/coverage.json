@@ -61,9 +61,9 @@
  },
  "usa.1": {
   "name": "MLS",
-  "hist": 494,
-  "today": 1,
-  "predicted": 1
+  "hist": 496,
+  "today": 0,
+  "predicted": 0
  },
  "usa.nwsl": {
   "name": "NWSL",
@@ -169,7 +169,7 @@
  },
  "mex.1": {
   "name": "Mexican Liga BBVA MX",
-  "hist": 302,
+  "hist": 303,
   "today": 0,
   "predicted": 0
  },
@@ -434,7 +434,7 @@
  "afc.champions": {
   "name": "AFC Champions League Elite",
   "hist": 102,
-  "today": 6,
+  "today": 5,
   "predicted": 2
  },
  "caf.nations_qual": {
@@ -547,13 +547,13 @@
  },
  "usa.usl.1": {
   "name": "USL Championship",
-  "hist": 381,
+  "hist": 383,
   "today": 0,
   "predicted": 0
  },
  "usa.usl.l1": {
   "name": "USL League One",
-  "hist": 275,
+  "hist": 276,
   "today": 0,
   "predicted": 0
  },
@@ -716,8 +716,8 @@
  "esp.2": {
   "name": "Spanish LALIGA 2",
   "hist": 412,
-  "today": 4,
-  "predicted": 4
+  "today": 3,
+  "predicted": 3
  },
  "ger.2": {
   "name": "German 2. Bundesliga",
@@ -1141,7 +1141,7 @@
  },
  "col.copa": {
   "name": "Copa Colombia",
-  "hist": 69,
+  "hist": 70,
   "today": 0,
   "predicted": 0
  },
@@ -1225,7 +1225,7 @@
  },
  "hon.1": {
   "name": "Honduran Liga Nacional",
-  "hist": 209,
+  "hist": 210,
   "today": 0,
   "predicted": 0
  },
@@ -1237,7 +1237,7 @@
  },
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
-  "hist": 262,
+  "hist": 263,
   "today": 0,
   "predicted": 0
  },
@@ -1309,7 +1309,7 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1717,
+  "hist": 1720,
   "today": 0,
   "predicted": 0
  },
