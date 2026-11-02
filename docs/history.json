@@ -14,9 +14,9 @@
   "prob": 0.8742,
   "fair_odds": 1.14,
   "is_banker": 1,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "won",
+  "score": "0-1",
+  "settled_at": "2026-11-02T21:29:58.836305+00:00"
  },
  {
   "id": 74,
@@ -52,9 +52,9 @@
   "prob": 0.8332,
   "fair_odds": 1.2,
   "is_banker": 0,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "won",
+  "score": "2-0",
+  "settled_at": "2026-11-02T21:29:58.836305+00:00"
  },
  {
   "id": 76,
@@ -71,9 +71,9 @@
   "prob": 0.8029,
   "fair_odds": 1.25,
   "is_banker": 0,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "won",
+  "score": "1-0",
+  "settled_at": "2026-11-02T21:29:58.836305+00:00"
  },
  {
   "id": 77,
@@ -90,9 +90,9 @@
   "prob": 0.7928,
   "fair_odds": 1.26,
   "is_banker": 0,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "won",
+  "score": "1-0",
+  "settled_at": "2026-11-02T21:29:58.836305+00:00"
  },
  {
   "id": 78,
