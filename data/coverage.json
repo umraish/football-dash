@@ -13,9 +13,9 @@
  },
  "uefa.champions": {
   "name": "UEFA Champions League",
-  "hist": 153,
-  "today": 7,
-  "predicted": 6
+  "hist": 162,
+  "today": 0,
+  "predicted": 0
  },
  "eng.1": {
   "name": "English Premier League",
@@ -211,9 +211,9 @@
  },
  "eng.2": {
   "name": "English League Championship",
-  "hist": 487,
-  "today": 9,
-  "predicted": 9
+  "hist": 496,
+  "today": 0,
+  "predicted": 0
  },
  "eng.w.promotion.relegation": {
   "name": "English Women's Super League Promotion/Relegation Playoff",
@@ -433,7 +433,7 @@
  },
  "afc.champions": {
   "name": "AFC Champions League Elite",
-  "hist": 115,
+  "hist": 116,
   "today": 0,
   "predicted": 0
  },
@@ -865,21 +865,21 @@
  },
  "eng.trophy": {
   "name": "English EFL Trophy",
-  "hist": 84,
+  "hist": 88,
   "today": 0,
   "predicted": 0
  },
  "eng.3": {
   "name": "English League One",
-  "hist": 503,
-  "today": 1,
-  "predicted": 1
+  "hist": 504,
+  "today": 0,
+  "predicted": 0
  },
  "eng.4": {
   "name": "English League Two",
-  "hist": 503,
-  "today": 1,
-  "predicted": 1
+  "hist": 504,
+  "today": 0,
+  "predicted": 0
  },
  "eng.5": {
   "name": "English National League",
@@ -913,9 +913,9 @@
  },
  "sco.challenge": {
   "name": "Scottish League Challenge Cup",
-  "hist": 151,
-  "today": 16,
-  "predicted": 16
+  "hist": 167,
+  "today": 0,
+  "predicted": 0
  },
  "sco.tennents_qual": {
   "name": "Scottish Cup Qualifying",
@@ -955,7 +955,7 @@
  },
  "swe.1": {
   "name": "Swedish Allsvenskan",
-  "hist": 215,
+  "hist": 216,
   "today": 0,
   "predicted": 0
  },
@@ -1052,8 +1052,8 @@
  "bra.1": {
   "name": "Brazilian Serie A",
   "hist": 330,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "bra.2": {
   "name": "Brazilian Serie B",
@@ -1135,9 +1135,9 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 372,
-  "today": 1,
-  "predicted": 1
+  "hist": 373,
+  "today": 0,
+  "predicted": 0
  },
  "col.copa": {
   "name": "Copa Colombia",
@@ -1147,15 +1147,15 @@
  },
  "per.1": {
   "name": "Peruvian Liga 1",
-  "hist": 287,
-  "today": 1,
-  "predicted": 1
+  "hist": 288,
+  "today": 0,
+  "predicted": 0
  },
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
-  "hist": 234,
-  "today": 2,
-  "predicted": 2
+  "hist": 235,
+  "today": 0,
+  "predicted": 0
  },
  "par.1.supercopa": {
   "name": "Paraguayan Supercopa",
@@ -1165,15 +1165,15 @@
  },
  "ecu.1": {
   "name": "LigaPro Ecuador",
-  "hist": 291,
-  "today": 1,
-  "predicted": 1
+  "hist": 292,
+  "today": 0,
+  "predicted": 0
  },
  "ven.1": {
   "name": "Venezuelan Primera Divisi\u00f3n",
   "hist": 218,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "bol.ply.rel": {
   "name": "Bolivian Liga Profesional Promotion/Relegation Playoffs",
@@ -1238,8 +1238,8 @@
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
   "hist": 263,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "slv.1": {
   "name": "Salvadoran Primera Division",
@@ -1309,7 +1309,7 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1720,
+  "hist": 1726,
   "today": 0,
   "predicted": 0
  },
