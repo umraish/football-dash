@@ -14,8 +14,8 @@
  "uefa.champions": {
   "name": "UEFA Champions League",
   "hist": 153,
-  "today": 9,
-  "predicted": 8
+  "today": 7,
+  "predicted": 6
  },
  "eng.1": {
   "name": "English Premier League",
@@ -80,7 +80,7 @@
  "esp.copa_del_rey": {
   "name": "Spanish Copa del Rey",
   "hist": 93,
-  "today": 2,
+  "today": 0,
   "predicted": 0
  },
  "concacaf.leagues.cup": {
@@ -175,7 +175,7 @@
  },
  "fra.coupe_de_france": {
   "name": "Coupe de France",
-  "hist": 0,
+  "hist": 63,
   "today": 0,
   "predicted": 0
  },
@@ -350,7 +350,7 @@
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
   "hist": 41,
-  "today": 1,
+  "today": 0,
   "predicted": 0
  },
  "fra.w.1": {
@@ -433,9 +433,9 @@
  },
  "afc.champions": {
   "name": "AFC Champions League Elite",
-  "hist": 112,
-  "today": 2,
-  "predicted": 1
+  "hist": 115,
+  "today": 0,
+  "predicted": 0
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
@@ -445,9 +445,9 @@
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
-  "hist": 89,
-  "today": 2,
-  "predicted": 1
+  "hist": 91,
+  "today": 0,
+  "predicted": 0
  },
  "fifa.cwc": {
   "name": "FIFA Club World Cup",
@@ -866,8 +866,8 @@
  "eng.trophy": {
   "name": "English EFL Trophy",
   "hist": 84,
-  "today": 4,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "eng.3": {
   "name": "English League One",
@@ -956,8 +956,8 @@
  "swe.1": {
   "name": "Swedish Allsvenskan",
   "hist": 215,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "swe.1.promotion.relegation": {
   "name": "Swedish Allsvenskan Promotion/Relegation Playoffs",
@@ -1310,8 +1310,8 @@
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
   "hist": 1720,
-  "today": 6,
-  "predicted": 6
+  "today": 0,
+  "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
