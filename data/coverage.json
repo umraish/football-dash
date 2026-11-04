@@ -13,9 +13,9 @@
  },
  "uefa.champions": {
   "name": "UEFA Champions League",
-  "hist": 153,
-  "today": 7,
-  "predicted": 5
+  "hist": 162,
+  "today": 0,
+  "predicted": 0
  },
  "eng.1": {
   "name": "English Premier League",
@@ -211,9 +211,9 @@
  },
  "eng.2": {
   "name": "English League Championship",
-  "hist": 488,
-  "today": 3,
-  "predicted": 3
+  "hist": 491,
+  "today": 0,
+  "predicted": 0
  },
  "eng.w.promotion.relegation": {
   "name": "English Women's Super League Promotion/Relegation Playoff",
@@ -445,7 +445,7 @@
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
-  "hist": 97,
+  "hist": 99,
   "today": 0,
   "predicted": 0
  },
@@ -703,9 +703,9 @@
  },
  "bel.1": {
   "name": "Belgian Pro League",
-  "hist": 266,
-  "today": 1,
-  "predicted": 1
+  "hist": 267,
+  "today": 0,
+  "predicted": 0
  },
  "bel.promotion.relegation": {
   "name": "Belgian Pro League Promotion/Relegation Playoffs",
@@ -835,7 +835,7 @@
  },
  "fifa.wworld.u17": {
   "name": "FIFA Under-17 Women's World Cup",
-  "hist": 49,
+  "hist": 50,
   "today": 0,
   "predicted": 0
  },
@@ -871,9 +871,9 @@
  },
  "eng.3": {
   "name": "English League One",
-  "hist": 495,
-  "today": 1,
-  "predicted": 1
+  "hist": 496,
+  "today": 0,
+  "predicted": 0
  },
  "eng.4": {
   "name": "English League Two",
@@ -1052,8 +1052,8 @@
  "bra.1": {
   "name": "Brazilian Serie A",
   "hist": 332,
-  "today": 2,
-  "predicted": 2
+  "today": 0,
+  "predicted": 0
  },
  "bra.2": {
   "name": "Brazilian Serie B",
@@ -1154,8 +1154,8 @@
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
   "hist": 236,
-  "today": 2,
-  "predicted": 2
+  "today": 0,
+  "predicted": 0
  },
  "par.1.supercopa": {
   "name": "Paraguayan Supercopa",
@@ -1172,8 +1172,8 @@
  "ven.1": {
   "name": "Venezuelan Primera Divisi\u00f3n",
   "hist": 220,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "bol.ply.rel": {
   "name": "Bolivian Liga Profesional Promotion/Relegation Playoffs",
@@ -1184,8 +1184,8 @@
  "bol.copa": {
   "name": "Copa Bolivia",
   "hist": 75,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "bol.1": {
   "name": "Bolivian Liga Profesional",
@@ -1225,9 +1225,9 @@
  },
  "hon.1": {
   "name": "Honduran Liga Nacional",
-  "hist": 210,
-  "today": 1,
-  "predicted": 1
+  "hist": 211,
+  "today": 0,
+  "predicted": 0
  },
  "crc.1": {
   "name": "Costa Rican Primera Division",
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1741,
+  "hist": 1744,
   "today": 0,
   "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2826,
-  "today": 2,
-  "predicted": 2
+  "hist": 2831,
+  "today": 0,
+  "predicted": 0
  }
 }
