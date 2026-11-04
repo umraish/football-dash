@@ -13,9 +13,9 @@
  },
  "uefa.champions": {
   "name": "UEFA Champions League",
-  "hist": 162,
-  "today": 0,
-  "predicted": 0
+  "hist": 153,
+  "today": 9,
+  "predicted": 7
  },
  "eng.1": {
   "name": "English Premier League",
@@ -25,7 +25,7 @@
  },
  "eng.fa": {
   "name": "English FA Cup",
-  "hist": 0,
+  "hist": 63,
   "today": 0,
   "predicted": 0
  },
@@ -80,7 +80,7 @@
  "esp.copa_del_rey": {
   "name": "Spanish Copa del Rey",
   "hist": 93,
-  "today": 0,
+  "today": 6,
   "predicted": 0
  },
  "concacaf.leagues.cup": {
@@ -115,15 +115,15 @@
  },
  "uefa.wchampions": {
   "name": "UEFA Women's Champions League",
-  "hist": 66,
+  "hist": 62,
   "today": 0,
   "predicted": 0
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
   "hist": 153,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "uefa.europa.conf": {
   "name": "UEFA Conference League",
@@ -176,7 +176,7 @@
  "fra.coupe_de_france": {
   "name": "Coupe de France",
   "hist": 63,
-  "today": 0,
+  "today": 1,
   "predicted": 0
  },
  "fra.super_cup": {
@@ -211,9 +211,9 @@
  },
  "eng.2": {
   "name": "English League Championship",
-  "hist": 496,
-  "today": 0,
-  "predicted": 0
+  "hist": 488,
+  "today": 3,
+  "predicted": 3
  },
  "eng.w.promotion.relegation": {
   "name": "English Women's Super League Promotion/Relegation Playoff",
@@ -230,7 +230,7 @@
  "fifa.friendly.w": {
   "name": "Women's International Friendly",
   "hist": 88,
-  "today": 0,
+  "today": 2,
   "predicted": 0
  },
  "usa.open": {
@@ -350,8 +350,8 @@
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
   "hist": 41,
-  "today": 0,
-  "predicted": 0
+  "today": 4,
+  "predicted": 1
  },
  "fra.w.1": {
   "name": "French Premi\u00e8re Ligue",
@@ -433,9 +433,9 @@
  },
  "afc.champions": {
   "name": "AFC Champions League Elite",
-  "hist": 116,
-  "today": 0,
-  "predicted": 0
+  "hist": 112,
+  "today": 2,
+  "predicted": 2
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
@@ -446,8 +446,8 @@
  "afc.cup": {
   "name": "AFC Champions League Two",
   "hist": 91,
-  "today": 0,
-  "predicted": 0
+  "today": 8,
+  "predicted": 1
  },
  "fifa.cwc": {
   "name": "FIFA Club World Cup",
@@ -680,7 +680,7 @@
  "club.friendly": {
   "name": "Club Friendly",
   "hist": 764,
-  "today": 0,
+  "today": 1,
   "predicted": 0
  },
  "nonfifa": {
@@ -704,8 +704,8 @@
  "bel.1": {
   "name": "Belgian Pro League",
   "hist": 266,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "bel.promotion.relegation": {
   "name": "Belgian Pro League Promotion/Relegation Playoffs",
@@ -836,7 +836,7 @@
  "fifa.wworld.u17": {
   "name": "FIFA Under-17 Women's World Cup",
   "hist": 48,
-  "today": 0,
+  "today": 2,
   "predicted": 0
  },
  "uefa.euro_u21_qual": {
@@ -865,19 +865,19 @@
  },
  "eng.trophy": {
   "name": "English EFL Trophy",
-  "hist": 88,
+  "hist": 87,
   "today": 0,
   "predicted": 0
  },
  "eng.3": {
   "name": "English League One",
-  "hist": 504,
-  "today": 0,
-  "predicted": 0
+  "hist": 495,
+  "today": 1,
+  "predicted": 1
  },
  "eng.4": {
   "name": "English League Two",
-  "hist": 504,
+  "hist": 495,
   "today": 0,
   "predicted": 0
  },
@@ -913,7 +913,7 @@
  },
  "sco.challenge": {
   "name": "Scottish League Challenge Cup",
-  "hist": 167,
+  "hist": 158,
   "today": 0,
   "predicted": 0
  },
@@ -1051,9 +1051,9 @@
  },
  "bra.1": {
   "name": "Brazilian Serie A",
-  "hist": 330,
-  "today": 0,
-  "predicted": 0
+  "hist": 332,
+  "today": 2,
+  "predicted": 2
  },
  "bra.2": {
   "name": "Brazilian Serie B",
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 373,
+  "hist": 374,
   "today": 0,
   "predicted": 0
  },
@@ -1147,15 +1147,15 @@
  },
  "per.1": {
   "name": "Peruvian Liga 1",
-  "hist": 288,
+  "hist": 289,
   "today": 0,
   "predicted": 0
  },
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
-  "hist": 235,
-  "today": 0,
-  "predicted": 0
+  "hist": 236,
+  "today": 2,
+  "predicted": 2
  },
  "par.1.supercopa": {
   "name": "Paraguayan Supercopa",
@@ -1171,9 +1171,9 @@
  },
  "ven.1": {
   "name": "Venezuelan Primera Divisi\u00f3n",
-  "hist": 218,
-  "today": 0,
-  "predicted": 0
+  "hist": 220,
+  "today": 1,
+  "predicted": 1
  },
  "bol.ply.rel": {
   "name": "Bolivian Liga Profesional Promotion/Relegation Playoffs",
@@ -1183,13 +1183,13 @@
  },
  "bol.copa": {
   "name": "Copa Bolivia",
-  "hist": 74,
-  "today": 0,
-  "predicted": 0
+  "hist": 75,
+  "today": 1,
+  "predicted": 1
  },
  "bol.1": {
   "name": "Bolivian Liga Profesional",
-  "hist": 208,
+  "hist": 207,
   "today": 0,
   "predicted": 0
  },
@@ -1226,18 +1226,18 @@
  "hon.1": {
   "name": "Honduran Liga Nacional",
   "hist": 210,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "crc.1": {
   "name": "Costa Rican Primera Division",
-  "hist": 172,
+  "hist": 173,
   "today": 0,
   "predicted": 0
  },
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
-  "hist": 263,
+  "hist": 264,
   "today": 0,
   "predicted": 0
  },
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1726,
-  "today": 0,
-  "predicted": 0
+  "hist": 1741,
+  "today": 3,
+  "predicted": 3
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2820,
-  "today": 0,
-  "predicted": 0
+  "hist": 2823,
+  "today": 7,
+  "predicted": 6
  }
 }
