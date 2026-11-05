@@ -121,15 +121,15 @@
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
-  "hist": 158,
-  "today": 9,
-  "predicted": 7
+  "hist": 171,
+  "today": 0,
+  "predicted": 0
  },
  "uefa.europa.conf": {
   "name": "UEFA Conference League",
-  "hist": 120,
-  "today": 9,
-  "predicted": 3
+  "hist": 135,
+  "today": 0,
+  "predicted": 0
  },
  "ita.1": {
   "name": "Italian Serie A",
@@ -349,7 +349,7 @@
  },
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
-  "hist": 41,
+  "hist": 0,
   "today": 0,
   "predicted": 0
  },
@@ -572,8 +572,8 @@
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
   "hist": 117,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "global.finalissima": {
   "name": "CONMEBOL-UEFA Cup of Champions",
@@ -997,9 +997,9 @@
  },
  "arg.1": {
   "name": "Argentine Liga Profesional de F\u00fatbol",
-  "hist": 481,
-  "today": 1,
-  "predicted": 1
+  "hist": 482,
+  "today": 0,
+  "predicted": 0
  },
  "arg.copa": {
   "name": "Copa Argentina",
@@ -1052,14 +1052,14 @@
  "bra.1": {
   "name": "Brazilian Serie A",
   "hist": 336,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "bra.2": {
   "name": "Brazilian Serie B",
   "hist": 360,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "bra.copa_do_brazil": {
   "name": "Copa do Brasil",
@@ -1154,8 +1154,8 @@
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
   "hist": 239,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "par.1.supercopa": {
   "name": "Paraguayan Supercopa",
@@ -1226,8 +1226,8 @@
  "hon.1": {
   "name": "Honduran Liga Nacional",
   "hist": 212,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "crc.1": {
   "name": "Costa Rican Primera Division",
@@ -1310,13 +1310,13 @@
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
   "hist": 1764,
-  "today": 3,
-  "predicted": 3
+  "today": 0,
+  "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2842,
-  "today": 10,
-  "predicted": 10
+  "hist": 2855,
+  "today": 0,
+  "predicted": 0
  }
 }
