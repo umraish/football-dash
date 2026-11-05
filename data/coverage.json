@@ -445,9 +445,9 @@
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
-  "hist": 97,
-  "today": 6,
-  "predicted": 1
+  "hist": 100,
+  "today": 0,
+  "predicted": 0
  },
  "fifa.cwc": {
   "name": "FIFA Club World Cup",
@@ -679,7 +679,7 @@
  },
  "club.friendly": {
   "name": "Club Friendly",
-  "hist": 764,
+  "hist": 765,
   "today": 0,
   "predicted": 0
  },
@@ -1231,7 +1231,7 @@
  },
  "crc.1": {
   "name": "Costa Rican Primera Division",
-  "hist": 173,
+  "hist": 174,
   "today": 0,
   "predicted": 0
  },
@@ -1255,8 +1255,8 @@
  },
  "afc.saff.championship": {
   "name": "SAFF Championship",
-  "hist": 0,
-  "today": 2,
+  "hist": 1,
+  "today": 1,
   "predicted": 0
  },
  "chn.1.promotion.relegation": {
@@ -1267,14 +1267,14 @@
  },
  "ind.1": {
   "name": "Indian Super League",
-  "hist": 114,
-  "today": 2,
-  "predicted": 1
+  "hist": 115,
+  "today": 0,
+  "predicted": 0
  },
  "ind.2": {
   "name": "Indian I-League",
   "hist": 71,
-  "today": 1,
+  "today": 0,
   "predicted": 0
  },
  "global.gulf_cup": {
@@ -1315,7 +1315,7 @@
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2838,
+  "hist": 2840,
   "today": 19,
   "predicted": 19
  }
