@@ -121,15 +121,15 @@
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
-  "hist": 154,
-  "today": 17,
-  "predicted": 14
+  "hist": 158,
+  "today": 9,
+  "predicted": 7
  },
  "uefa.europa.conf": {
   "name": "UEFA Conference League",
-  "hist": 117,
-  "today": 18,
-  "predicted": 7
+  "hist": 120,
+  "today": 9,
+  "predicted": 3
  },
  "ita.1": {
   "name": "Italian Serie A",
@@ -445,7 +445,7 @@
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
-  "hist": 100,
+  "hist": 103,
   "today": 0,
   "predicted": 0
  },
@@ -998,8 +998,8 @@
  "arg.1": {
   "name": "Argentine Liga Profesional de F\u00fatbol",
   "hist": 481,
-  "today": 2,
-  "predicted": 2
+  "today": 1,
+  "predicted": 1
  },
  "arg.copa": {
   "name": "Copa Argentina",
@@ -1255,8 +1255,8 @@
  },
  "afc.saff.championship": {
   "name": "SAFF Championship",
-  "hist": 1,
-  "today": 1,
+  "hist": 2,
+  "today": 0,
   "predicted": 0
  },
  "chn.1.promotion.relegation": {
@@ -1267,13 +1267,13 @@
  },
  "ind.1": {
   "name": "Indian Super League",
-  "hist": 115,
+  "hist": 116,
   "today": 0,
   "predicted": 0
  },
  "ind.2": {
   "name": "Indian I-League",
-  "hist": 71,
+  "hist": 72,
   "today": 0,
   "predicted": 0
  },
@@ -1315,8 +1315,8 @@
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2840,
-  "today": 19,
-  "predicted": 19
+  "hist": 2842,
+  "today": 10,
+  "predicted": 10
  }
 }
