@@ -20,14 +20,14 @@
  "eng.1": {
   "name": "English Premier League",
   "hist": 320,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "eng.fa": {
   "name": "English FA Cup",
   "hist": 63,
-  "today": 0,
-  "predicted": 0
+  "today": 2,
+  "predicted": 1
  },
  "eng.league_cup": {
   "name": "English Carabao Cup",
@@ -38,8 +38,8 @@
  "esp.1": {
   "name": "Spanish LALIGA",
   "hist": 337,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "eng.charity": {
   "name": "English FA Community Shield",
@@ -121,21 +121,21 @@
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
-  "hist": 171,
+  "hist": 153,
   "today": 0,
   "predicted": 0
  },
  "uefa.europa.conf": {
   "name": "UEFA Conference League",
-  "hist": 135,
+  "hist": 117,
   "today": 0,
   "predicted": 0
  },
  "ita.1": {
   "name": "Italian Serie A",
   "hist": 340,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "ita.coppa_italia": {
   "name": "Coppa Italia",
@@ -146,8 +146,8 @@
  "ger.1": {
   "name": "German Bundesliga",
   "hist": 261,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "ger.playoff.relegation": {
   "name": "German Bundesliga Promotion/Relegation Playoff",
@@ -164,19 +164,19 @@
  "fra.1": {
   "name": "French Ligue 1",
   "hist": 251,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "mex.1": {
   "name": "Mexican Liga BBVA MX",
-  "hist": 303,
+  "hist": 302,
   "today": 0,
   "predicted": 0
  },
  "fra.coupe_de_france": {
   "name": "Coupe de France",
   "hist": 64,
-  "today": 0,
+  "today": 1,
   "predicted": 0
  },
  "fra.super_cup": {
@@ -200,20 +200,20 @@
  "ned.1": {
   "name": "Dutch Eredivisie",
   "hist": 273,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "eng.w.1": {
   "name": "English Women's Super League",
-  "hist": 129,
+  "hist": 128,
   "today": 0,
   "predicted": 0
  },
  "eng.2": {
   "name": "English League Championship",
   "hist": 487,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "eng.w.promotion.relegation": {
   "name": "English Women's Super League Promotion/Relegation Playoff",
@@ -356,8 +356,8 @@
  "fra.w.1": {
   "name": "French Premi\u00e8re Ligue",
   "hist": 121,
-  "today": 0,
-  "predicted": 0
+  "today": 3,
+  "predicted": 3
  },
  "ned.cup": {
   "name": "Dutch KNVB Beker",
@@ -386,14 +386,14 @@
  "aus.1": {
   "name": "Australian A-League Men",
   "hist": 138,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "aus.w.1": {
   "name": "Australian A-League Women",
   "hist": 106,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "ksa.1": {
   "name": "Saudi Pro League",
@@ -410,8 +410,8 @@
  "por.1": {
   "name": "Portuguese Primeira Liga",
   "hist": 279,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "por.taca.portugal": {
   "name": "Taca de Portugal",
@@ -422,8 +422,8 @@
  "tur.1": {
   "name": "Turkish Super Lig",
   "hist": 261,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "caf.nations": {
   "name": "Africa Cup of Nations",
@@ -445,7 +445,7 @@
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
-  "hist": 103,
+  "hist": 97,
   "today": 0,
   "predicted": 0
  },
@@ -565,13 +565,13 @@
  },
  "mex.2": {
   "name": "Mexican Liga de Expansi\u00f3n MX",
-  "hist": 243,
+  "hist": 244,
   "today": 0,
   "predicted": 0
  },
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
-  "hist": 117,
+  "hist": 120,
   "today": 0,
   "predicted": 0
  },
@@ -692,8 +692,8 @@
  "rus.1": {
   "name": "Russian Premier League",
   "hist": 200,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "rus.1.promotion.relegation": {
   "name": "Russian Premier League Relegation/Promotion Playoffs",
@@ -704,8 +704,8 @@
  "bel.1": {
   "name": "Belgian Pro League",
   "hist": 267,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "bel.promotion.relegation": {
   "name": "Belgian Pro League Promotion/Relegation Playoffs",
@@ -716,20 +716,20 @@
  "esp.2": {
   "name": "Spanish LALIGA 2",
   "hist": 413,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "ger.2": {
   "name": "German 2. Bundesliga",
   "hist": 261,
-  "today": 0,
-  "predicted": 0
+  "today": 2,
+  "predicted": 2
  },
  "ita.2": {
   "name": "Italian Serie B",
   "hist": 340,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "fra.1.promotion.relegation": {
   "name": "French Ligue 1 Promotion/Relegation Playoffs",
@@ -740,8 +740,8 @@
  "fra.2": {
   "name": "French Ligue 2",
   "hist": 261,
-  "today": 0,
-  "predicted": 0
+  "today": 6,
+  "predicted": 6
  },
  "por.1.promotion.relegation": {
   "name": "Portuguese Primeira Liga Promotion/Relegation Playoffs",
@@ -752,8 +752,8 @@
  "aut.1": {
   "name": "Austrian Bundesliga",
   "hist": 165,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "gre.1": {
   "name": "Greek Super League",
@@ -902,8 +902,8 @@
  "sco.2": {
   "name": "Scottish Championship",
   "hist": 160,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "sco.2.promotion.relegation": {
   "name": "Scottish Championship Promotion/Relegation Playoffs",
@@ -932,8 +932,8 @@
  "ned.2": {
   "name": "Dutch Keuken Kampioen Divisie",
   "hist": 320,
-  "today": 0,
-  "predicted": 0
+  "today": 7,
+  "predicted": 7
  },
  "ned.3.promotion.relegation": {
   "name": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
@@ -956,8 +956,8 @@
  "swe.1": {
   "name": "Swedish Allsvenskan",
   "hist": 216,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "swe.1.promotion.relegation": {
   "name": "Swedish Allsvenskan Promotion/Relegation Playoffs",
@@ -968,8 +968,8 @@
  "den.1": {
   "name": "Danish Superliga",
   "hist": 163,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "nor.1.promotion.relegation": {
   "name": "Norwegian Eliteserien Promotion/Relegation Playoffs",
@@ -997,9 +997,9 @@
  },
  "arg.1": {
   "name": "Argentine Liga Profesional de F\u00fatbol",
-  "hist": 482,
-  "today": 0,
-  "predicted": 0
+  "hist": 483,
+  "today": 4,
+  "predicted": 4
  },
  "arg.copa": {
   "name": "Copa Argentina",
@@ -1051,19 +1051,19 @@
  },
  "bra.1": {
   "name": "Brazilian Serie A",
-  "hist": 336,
+  "hist": 338,
   "today": 0,
   "predicted": 0
  },
  "bra.2": {
   "name": "Brazilian Serie B",
-  "hist": 360,
-  "today": 0,
-  "predicted": 0
+  "hist": 361,
+  "today": 1,
+  "predicted": 1
  },
  "bra.copa_do_brazil": {
   "name": "Copa do Brasil",
-  "hist": 157,
+  "hist": 156,
   "today": 0,
   "predicted": 0
  },
@@ -1148,12 +1148,12 @@
  "per.1": {
   "name": "Peruvian Liga 1",
   "hist": 289,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
-  "hist": 239,
+  "hist": 240,
   "today": 0,
   "predicted": 0
  },
@@ -1183,13 +1183,13 @@
  },
  "bol.copa": {
   "name": "Copa Bolivia",
-  "hist": 77,
+  "hist": 78,
   "today": 0,
   "predicted": 0
  },
  "bol.1": {
   "name": "Bolivian Liga Profesional",
-  "hist": 205,
+  "hist": 200,
   "today": 0,
   "predicted": 0
  },
@@ -1225,7 +1225,7 @@
  },
  "hon.1": {
   "name": "Honduran Liga Nacional",
-  "hist": 212,
+  "hist": 214,
   "today": 0,
   "predicted": 0
  },
@@ -1237,7 +1237,7 @@
  },
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
-  "hist": 262,
+  "hist": 260,
   "today": 0,
   "predicted": 0
  },
@@ -1268,14 +1268,14 @@
  "ind.1": {
   "name": "Indian Super League",
   "hist": 116,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "ind.2": {
   "name": "Indian I-League",
   "hist": 72,
-  "today": 0,
-  "predicted": 0
+  "today": 2,
+  "predicted": 1
  },
  "global.gulf_cup": {
   "name": "Arabian Gulf Cup",
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1764,
-  "today": 0,
-  "predicted": 0
+  "hist": 1769,
+  "today": 2,
+  "predicted": 2
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2855,
-  "today": 0,
-  "predicted": 0
+  "hist": 2881,
+  "today": 2,
+  "predicted": 2
  }
 }
