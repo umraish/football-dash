@@ -356,8 +356,8 @@
  "fra.w.1": {
   "name": "French Premi\u00e8re Ligue",
   "hist": 121,
-  "today": 3,
-  "predicted": 3
+  "today": 1,
+  "predicted": 1
  },
  "ned.cup": {
   "name": "Dutch KNVB Beker",
@@ -421,9 +421,9 @@
  },
  "tur.1": {
   "name": "Turkish Super Lig",
-  "hist": 261,
-  "today": 1,
-  "predicted": 1
+  "hist": 262,
+  "today": 0,
+  "predicted": 0
  },
  "caf.nations": {
   "name": "Africa Cup of Nations",
@@ -691,9 +691,9 @@
  },
  "rus.1": {
   "name": "Russian Premier League",
-  "hist": 200,
-  "today": 1,
-  "predicted": 1
+  "hist": 201,
+  "today": 0,
+  "predicted": 0
  },
  "rus.1.promotion.relegation": {
   "name": "Russian Premier League Relegation/Promotion Playoffs",
@@ -716,14 +716,14 @@
  "esp.2": {
   "name": "Spanish LALIGA 2",
   "hist": 413,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "ger.2": {
   "name": "German 2. Bundesliga",
   "hist": 261,
-  "today": 2,
-  "predicted": 2
+  "today": 0,
+  "predicted": 0
  },
  "ita.2": {
   "name": "Italian Serie B",
@@ -740,8 +740,8 @@
  "fra.2": {
   "name": "French Ligue 2",
   "hist": 261,
-  "today": 6,
-  "predicted": 6
+  "today": 0,
+  "predicted": 0
  },
  "por.1.promotion.relegation": {
   "name": "Portuguese Primeira Liga Promotion/Relegation Playoffs",
@@ -752,8 +752,8 @@
  "aut.1": {
   "name": "Austrian Bundesliga",
   "hist": 165,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "gre.1": {
   "name": "Greek Super League",
@@ -932,8 +932,8 @@
  "ned.2": {
   "name": "Dutch Keuken Kampioen Divisie",
   "hist": 320,
-  "today": 7,
-  "predicted": 7
+  "today": 5,
+  "predicted": 5
  },
  "ned.3.promotion.relegation": {
   "name": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
@@ -956,8 +956,8 @@
  "swe.1": {
   "name": "Swedish Allsvenskan",
   "hist": 216,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "swe.1.promotion.relegation": {
   "name": "Swedish Allsvenskan Promotion/Relegation Playoffs",
@@ -968,8 +968,8 @@
  "den.1": {
   "name": "Danish Superliga",
   "hist": 163,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "nor.1.promotion.relegation": {
   "name": "Norwegian Eliteserien Promotion/Relegation Playoffs",
@@ -998,8 +998,8 @@
  "arg.1": {
   "name": "Argentine Liga Profesional de F\u00fatbol",
   "hist": 483,
-  "today": 4,
-  "predicted": 4
+  "today": 3,
+  "predicted": 3
  },
  "arg.copa": {
   "name": "Copa Argentina",
@@ -1267,13 +1267,13 @@
  },
  "ind.1": {
   "name": "Indian Super League",
-  "hist": 116,
-  "today": 1,
-  "predicted": 1
+  "hist": 117,
+  "today": 0,
+  "predicted": 0
  },
  "ind.2": {
   "name": "Indian I-League",
-  "hist": 73,
+  "hist": 74,
   "today": 0,
   "predicted": 0
  },
