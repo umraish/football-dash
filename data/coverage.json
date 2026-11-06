@@ -385,15 +385,15 @@
  },
  "aus.1": {
   "name": "Australian A-League Men",
-  "hist": 138,
-  "today": 1,
-  "predicted": 1
+  "hist": 139,
+  "today": 0,
+  "predicted": 0
  },
  "aus.w.1": {
   "name": "Australian A-League Women",
-  "hist": 106,
-  "today": 1,
-  "predicted": 1
+  "hist": 107,
+  "today": 0,
+  "predicted": 0
  },
  "ksa.1": {
   "name": "Saudi Pro League",
@@ -565,13 +565,13 @@
  },
  "mex.2": {
   "name": "Mexican Liga de Expansi\u00f3n MX",
-  "hist": 244,
+  "hist": 245,
   "today": 0,
   "predicted": 0
  },
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
-  "hist": 120,
+  "hist": 121,
   "today": 0,
   "predicted": 0
  },
@@ -1231,7 +1231,7 @@
  },
  "crc.1": {
   "name": "Costa Rican Primera Division",
-  "hist": 174,
+  "hist": 175,
   "today": 0,
   "predicted": 0
  },
@@ -1273,9 +1273,9 @@
  },
  "ind.2": {
   "name": "Indian I-League",
-  "hist": 72,
-  "today": 2,
-  "predicted": 1
+  "hist": 73,
+  "today": 0,
+  "predicted": 0
  },
  "global.gulf_cup": {
   "name": "Arabian Gulf Cup",
@@ -1315,7 +1315,7 @@
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2881,
+  "hist": 2892,
   "today": 2,
   "predicted": 2
  }
