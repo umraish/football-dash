@@ -169,7 +169,7 @@
  },
  "mex.1": {
   "name": "Mexican Liga BBVA MX",
-  "hist": 309,
+  "hist": 310,
   "today": 0,
   "predicted": 0
  },
@@ -565,7 +565,7 @@
  },
  "mex.2": {
   "name": "Mexican Liga de Expansi\u00f3n MX",
-  "hist": 248,
+  "hist": 249,
   "today": 0,
   "predicted": 0
  },
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 383,
+  "hist": 384,
   "today": 0,
   "predicted": 0
  },
@@ -1147,7 +1147,7 @@
  },
  "per.1": {
   "name": "Peruvian Liga 1",
-  "hist": 296,
+  "hist": 297,
   "today": 0,
   "predicted": 0
  },
@@ -1225,7 +1225,7 @@
  },
  "hon.1": {
   "name": "Honduran Liga Nacional",
-  "hist": 217,
+  "hist": 218,
   "today": 0,
   "predicted": 0
  },
@@ -1243,7 +1243,7 @@
  },
  "slv.1": {
   "name": "Salvadoran Primera Division",
-  "hist": 260,
+  "hist": 261,
   "today": 0,
   "predicted": 0
  },
@@ -1309,13 +1309,13 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1828,
+  "hist": 1830,
   "today": 0,
   "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2962,
+  "hist": 2966,
   "today": 5,
   "predicted": 5
  }
