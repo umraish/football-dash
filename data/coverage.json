@@ -80,7 +80,7 @@
  "esp.copa_del_rey": {
   "name": "Spanish Copa del Rey",
   "hist": 93,
-  "today": 5,
+  "today": 1,
   "predicted": 0
  },
  "concacaf.leagues.cup": {
@@ -116,8 +116,8 @@
  "uefa.wchampions": {
   "name": "UEFA Women's Champions League",
   "hist": 57,
-  "today": 5,
-  "predicted": 3
+  "today": 3,
+  "predicted": 1
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
@@ -229,8 +229,8 @@
  },
  "fifa.friendly.w": {
   "name": "Women's International Friendly",
-  "hist": 92,
-  "today": 2,
+  "hist": 94,
+  "today": 0,
   "predicted": 0
  },
  "usa.open": {
@@ -656,8 +656,8 @@
  "uefa.w.europa": {
   "name": "UEFA Women's Europa Cup",
   "hist": 78,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "fifa.intercontinental_cup": {
   "name": "FIFA Intercontinental Cup",
@@ -679,9 +679,9 @@
  },
  "club.friendly": {
   "name": "Club Friendly",
-  "hist": 765,
-  "today": 2,
-  "predicted": 1
+  "hist": 766,
+  "today": 1,
+  "predicted": 0
  },
  "nonfifa": {
   "name": "Non-FIFA Friendly",
@@ -866,8 +866,8 @@
  "eng.trophy": {
   "name": "English EFL Trophy",
   "hist": 87,
-  "today": 17,
-  "predicted": 12
+  "today": 4,
+  "predicted": 2
  },
  "eng.3": {
   "name": "English League One",
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1831,
-  "today": 3,
-  "predicted": 3
+  "hist": 1832,
+  "today": 1,
+  "predicted": 1
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
   "hist": 2974,
-  "today": 8,
-  "predicted": 8
+  "today": 5,
+  "predicted": 5
  }
 }
