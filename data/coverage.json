@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 384,
+  "hist": 385,
   "today": 0,
   "predicted": 0
  },
@@ -1189,7 +1189,7 @@
  },
  "bol.1": {
   "name": "Bolivian Liga Profesional",
-  "hist": 199,
+  "hist": 200,
   "today": 0,
   "predicted": 0
  },
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1829,
-  "today": 4,
-  "predicted": 4
+  "hist": 1831,
+  "today": 3,
+  "predicted": 3
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2970,
-  "today": 10,
-  "predicted": 10
+  "hist": 2974,
+  "today": 8,
+  "predicted": 8
  }
 }
