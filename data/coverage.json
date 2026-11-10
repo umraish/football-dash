@@ -19,13 +19,13 @@
  },
  "eng.1": {
   "name": "English Premier League",
-  "hist": 321,
+  "hist": 320,
   "today": 0,
   "predicted": 0
  },
  "eng.fa": {
   "name": "English FA Cup",
-  "hist": 102,
+  "hist": 103,
   "today": 0,
   "predicted": 0
  },
@@ -37,7 +37,7 @@
  },
  "esp.1": {
   "name": "Spanish LALIGA",
-  "hist": 339,
+  "hist": 338,
   "today": 0,
   "predicted": 0
  },
@@ -49,7 +49,7 @@
  },
  "uefa.nations": {
   "name": "UEFA Nations League",
-  "hist": 0,
+  "hist": 108,
   "today": 0,
   "predicted": 0
  },
@@ -80,7 +80,7 @@
  "esp.copa_del_rey": {
   "name": "Spanish Copa del Rey",
   "hist": 93,
-  "today": 0,
+  "today": 5,
   "predicted": 0
  },
  "concacaf.leagues.cup": {
@@ -116,8 +116,8 @@
  "uefa.wchampions": {
   "name": "UEFA Women's Champions League",
   "hist": 57,
-  "today": 0,
-  "predicted": 0
+  "today": 5,
+  "predicted": 3
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
@@ -133,7 +133,7 @@
  },
  "ita.1": {
   "name": "Italian Serie A",
-  "hist": 341,
+  "hist": 340,
   "today": 0,
   "predicted": 0
  },
@@ -211,7 +211,7 @@
  },
  "eng.2": {
   "name": "English League Championship",
-  "hist": 488,
+  "hist": 487,
   "today": 0,
   "predicted": 0
  },
@@ -230,7 +230,7 @@
  "fifa.friendly.w": {
   "name": "Women's International Friendly",
   "hist": 92,
-  "today": 0,
+  "today": 2,
   "predicted": 0
  },
  "usa.open": {
@@ -241,7 +241,7 @@
  },
  "concacaf.nations.league": {
   "name": "Concacaf Nations League",
-  "hist": 0,
+  "hist": 74,
   "today": 0,
   "predicted": 0
  },
@@ -349,7 +349,7 @@
  },
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
-  "hist": 0,
+  "hist": 41,
   "today": 0,
   "predicted": 0
  },
@@ -367,7 +367,7 @@
  },
  "sco.1": {
   "name": "Scottish Premiership",
-  "hist": 206,
+  "hist": 205,
   "today": 0,
   "predicted": 0
  },
@@ -409,7 +409,7 @@
  },
  "por.1": {
   "name": "Portuguese Primeira Liga",
-  "hist": 281,
+  "hist": 278,
   "today": 0,
   "predicted": 0
  },
@@ -421,7 +421,7 @@
  },
  "tur.1": {
   "name": "Turkish Super Lig",
-  "hist": 262,
+  "hist": 261,
   "today": 0,
   "predicted": 0
  },
@@ -439,7 +439,7 @@
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
-  "hist": 0,
+  "hist": 60,
   "today": 0,
   "predicted": 0
  },
@@ -656,8 +656,8 @@
  "uefa.w.europa": {
   "name": "UEFA Women's Europa Cup",
   "hist": 78,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "fifa.intercontinental_cup": {
   "name": "FIFA Intercontinental Cup",
@@ -680,8 +680,8 @@
  "club.friendly": {
   "name": "Club Friendly",
   "hist": 765,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "nonfifa": {
   "name": "Non-FIFA Friendly",
@@ -715,7 +715,7 @@
  },
  "esp.2": {
   "name": "Spanish LALIGA 2",
-  "hist": 411,
+  "hist": 410,
   "today": 0,
   "predicted": 0
  },
@@ -739,7 +739,7 @@
  },
  "fra.2": {
   "name": "French Ligue 2",
-  "hist": 262,
+  "hist": 261,
   "today": 0,
   "predicted": 0
  },
@@ -841,7 +841,7 @@
  },
  "uefa.euro_u21_qual": {
   "name": "UEFA European Under-21 Championship Qualifying",
-  "hist": 0,
+  "hist": 113,
   "today": 0,
   "predicted": 0
  },
@@ -853,7 +853,7 @@
  },
  "fifa.friendly_u21": {
   "name": "Under-21 International Friendly",
-  "hist": 0,
+  "hist": 9,
   "today": 0,
   "predicted": 0
  },
@@ -866,8 +866,8 @@
  "eng.trophy": {
   "name": "English EFL Trophy",
   "hist": 87,
-  "today": 0,
-  "predicted": 0
+  "today": 17,
+  "predicted": 12
  },
  "eng.3": {
   "name": "English League One",
@@ -889,7 +889,7 @@
  },
  "eng.fa_qual": {
   "name": "English FA Cup Qualifying",
-  "hist": 623,
+  "hist": 0,
   "today": 0,
   "predicted": 0
  },
@@ -1153,9 +1153,9 @@
  },
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
-  "hist": 245,
-  "today": 1,
-  "predicted": 1
+  "hist": 246,
+  "today": 0,
+  "predicted": 0
  },
  "par.1.supercopa": {
   "name": "Paraguayan Supercopa",
@@ -1189,7 +1189,7 @@
  },
  "bol.1": {
   "name": "Bolivian Liga Profesional",
-  "hist": 201,
+  "hist": 199,
   "today": 0,
   "predicted": 0
  },
@@ -1244,8 +1244,8 @@
  "slv.1": {
   "name": "Salvadoran Primera Division",
   "hist": 261,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "fifa.intercontinental.cup": {
   "name": "Intercontinental Cup (India)",
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1830,
-  "today": 0,
-  "predicted": 0
+  "hist": 1829,
+  "today": 4,
+  "predicted": 4
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2968,
-  "today": 1,
-  "predicted": 1
+  "hist": 2970,
+  "today": 10,
+  "predicted": 10
  }
 }
