@@ -116,7 +116,7 @@
  "uefa.wchampions": {
   "name": "UEFA Women's Champions League",
   "hist": 62,
-  "today": 3,
+  "today": 2,
   "predicted": 1
  },
  "uefa.europa": {
@@ -571,9 +571,9 @@
  },
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
-  "hist": 126,
-  "today": 1,
-  "predicted": 1
+  "hist": 128,
+  "today": 0,
+  "predicted": 0
  },
  "global.finalissima": {
   "name": "CONMEBOL-UEFA Cup of Champions",
@@ -656,7 +656,7 @@
  "uefa.w.europa": {
   "name": "UEFA Women's Europa Cup",
   "hist": 79,
-  "today": 7,
+  "today": 6,
   "predicted": 1
  },
  "fifa.intercontinental_cup": {
@@ -1141,7 +1141,7 @@
  },
  "col.copa": {
   "name": "Copa Colombia",
-  "hist": 70,
+  "hist": 71,
   "today": 0,
   "predicted": 0
  },
@@ -1184,8 +1184,8 @@
  "bol.copa": {
   "name": "Copa Bolivia",
   "hist": 76,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "bol.1": {
   "name": "Bolivian Liga Profesional",
@@ -1243,7 +1243,7 @@
  },
  "slv.1": {
   "name": "Salvadoran Primera Division",
-  "hist": 262,
+  "hist": 263,
   "today": 1,
   "predicted": 1
  },
@@ -1309,13 +1309,13 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1835,
+  "hist": 1837,
   "today": 6,
   "predicted": 6
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 2985,
+  "hist": 2987,
   "today": 11,
   "predicted": 11
  }
