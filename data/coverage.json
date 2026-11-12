@@ -55,9 +55,9 @@
  },
  "fifa.friendly": {
   "name": "International Friendly",
-  "hist": 340,
-  "today": 4,
-  "predicted": 2
+  "hist": 341,
+  "today": 3,
+  "predicted": 1
  },
  "usa.1": {
   "name": "MLS",
@@ -565,13 +565,13 @@
  },
  "mex.2": {
   "name": "Mexican Liga de Expansi\u00f3n MX",
-  "hist": 249,
+  "hist": 250,
   "today": 0,
   "predicted": 0
  },
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
-  "hist": 129,
+  "hist": 130,
   "today": 0,
   "predicted": 0
  },
@@ -679,8 +679,8 @@
  },
  "club.friendly": {
   "name": "Club Friendly",
-  "hist": 770,
-  "today": 16,
+  "hist": 778,
+  "today": 9,
   "predicted": 3
  },
  "nonfifa": {
@@ -842,7 +842,7 @@
  "uefa.euro_u21_qual": {
   "name": "UEFA European Under-21 Championship Qualifying",
   "hist": 113,
-  "today": 1,
+  "today": 0,
   "predicted": 0
  },
  "uefa.euro.u19": {
@@ -1309,13 +1309,13 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1855,
+  "hist": 1857,
   "today": 5,
   "predicted": 5
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 3007,
+  "hist": 3011,
   "today": 14,
   "predicted": 14
  }
