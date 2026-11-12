@@ -49,15 +49,15 @@
  },
  "uefa.nations": {
   "name": "UEFA Nations League",
-  "hist": 108,
-  "today": 8,
-  "predicted": 8
+  "hist": 110,
+  "today": 6,
+  "predicted": 6
  },
  "fifa.friendly": {
   "name": "International Friendly",
-  "hist": 341,
-  "today": 3,
-  "predicted": 1
+  "hist": 344,
+  "today": 0,
+  "predicted": 0
  },
  "usa.1": {
   "name": "MLS",
@@ -79,8 +79,8 @@
  },
  "esp.copa_del_rey": {
   "name": "Spanish Copa del Rey",
-  "hist": 86,
-  "today": 3,
+  "hist": 87,
+  "today": 0,
   "predicted": 0
  },
  "concacaf.leagues.cup": {
@@ -115,9 +115,9 @@
  },
  "uefa.wchampions": {
   "name": "UEFA Women's Champions League",
-  "hist": 55,
-  "today": 2,
-  "predicted": 1
+  "hist": 56,
+  "today": 1,
+  "predicted": 0
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
@@ -242,8 +242,8 @@
  "concacaf.nations.league": {
   "name": "Concacaf Nations League",
   "hist": 74,
-  "today": 4,
-  "predicted": 3
+  "today": 1,
+  "predicted": 1
  },
  "conmebol.libertadores": {
   "name": "CONMEBOL Libertadores",
@@ -350,7 +350,7 @@
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
   "hist": 41,
-  "today": 2,
+  "today": 0,
   "predicted": 0
  },
  "fra.w.1": {
@@ -439,8 +439,8 @@
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
-  "hist": 60,
-  "today": 9,
+  "hist": 65,
+  "today": 0,
   "predicted": 0
  },
  "afc.cup": {
@@ -655,8 +655,8 @@
  },
  "uefa.w.europa": {
   "name": "UEFA Women's Europa Cup",
-  "hist": 85,
-  "today": 1,
+  "hist": 86,
+  "today": 0,
   "predicted": 0
  },
  "fifa.intercontinental_cup": {
@@ -679,9 +679,9 @@
  },
  "club.friendly": {
   "name": "Club Friendly",
-  "hist": 778,
-  "today": 9,
-  "predicted": 3
+  "hist": 787,
+  "today": 0,
+  "predicted": 0
  },
  "nonfifa": {
   "name": "Non-FIFA Friendly",
@@ -841,7 +841,7 @@
  },
  "uefa.euro_u21_qual": {
   "name": "UEFA European Under-21 Championship Qualifying",
-  "hist": 113,
+  "hist": 114,
   "today": 0,
   "predicted": 0
  },
@@ -853,8 +853,8 @@
  },
  "fifa.friendly_u21": {
   "name": "Under-21 International Friendly",
-  "hist": 9,
-  "today": 2,
+  "hist": 11,
+  "today": 0,
   "predicted": 0
  },
  "ger.2.promotion.relegation": {
@@ -1310,13 +1310,13 @@
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
   "hist": 1857,
-  "today": 5,
-  "predicted": 5
+  "today": 4,
+  "predicted": 4
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 3011,
-  "today": 14,
-  "predicted": 14
+  "hist": 3013,
+  "today": 7,
+  "predicted": 7
  }
 }
