@@ -33,9 +33,9 @@
   "prob": 0.9078,
   "fair_odds": 1.1,
   "is_banker": 0,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "won",
+  "score": "3-0",
+  "settled_at": "2026-11-12T03:59:36.144720+00:00"
  },
  {
   "id": 134,
