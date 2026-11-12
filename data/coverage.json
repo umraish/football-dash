@@ -49,9 +49,9 @@
  },
  "uefa.nations": {
   "name": "UEFA Nations League",
-  "hist": 110,
-  "today": 6,
-  "predicted": 6
+  "hist": 116,
+  "today": 0,
+  "predicted": 0
  },
  "fifa.friendly": {
   "name": "International Friendly",
@@ -79,7 +79,7 @@
  },
  "esp.copa_del_rey": {
   "name": "Spanish Copa del Rey",
-  "hist": 87,
+  "hist": 89,
   "today": 0,
   "predicted": 0
  },
@@ -115,8 +115,8 @@
  },
  "uefa.wchampions": {
   "name": "UEFA Women's Champions League",
-  "hist": 56,
-  "today": 1,
+  "hist": 57,
+  "today": 0,
   "predicted": 0
  },
  "uefa.europa": {
@@ -175,8 +175,8 @@
  },
  "fra.coupe_de_france": {
   "name": "Coupe de France",
-  "hist": 65,
-  "today": 1,
+  "hist": 66,
+  "today": 0,
   "predicted": 0
  },
  "fra.super_cup": {
@@ -241,9 +241,9 @@
  },
  "concacaf.nations.league": {
   "name": "Concacaf Nations League",
-  "hist": 74,
-  "today": 1,
-  "predicted": 1
+  "hist": 77,
+  "today": 0,
+  "predicted": 0
  },
  "conmebol.libertadores": {
   "name": "CONMEBOL Libertadores",
@@ -349,7 +349,7 @@
  },
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
-  "hist": 41,
+  "hist": 43,
   "today": 0,
   "predicted": 0
  },
@@ -439,7 +439,7 @@
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
-  "hist": 65,
+  "hist": 69,
   "today": 0,
   "predicted": 0
  },
@@ -1058,8 +1058,8 @@
  "bra.2": {
   "name": "Brazilian Serie B",
   "hist": 371,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "bra.copa_do_brazil": {
   "name": "Copa do Brasil",
@@ -1136,8 +1136,8 @@
  "col.1": {
   "name": "Colombian Primera A",
   "hist": 384,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "col.copa": {
   "name": "Copa Colombia",
@@ -1172,8 +1172,8 @@
  "ven.1": {
   "name": "Venezuelan Primera Divisi\u00f3n",
   "hist": 226,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "bol.ply.rel": {
   "name": "Bolivian Liga Profesional Promotion/Relegation Playoffs",
@@ -1238,14 +1238,14 @@
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
   "hist": 262,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "slv.1": {
   "name": "Salvadoran Primera Division",
   "hist": 265,
-  "today": 2,
-  "predicted": 2
+  "today": 0,
+  "predicted": 0
  },
  "fifa.intercontinental.cup": {
   "name": "Intercontinental Cup (India)",
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1857,
-  "today": 4,
-  "predicted": 4
+  "hist": 1859,
+  "today": 0,
+  "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 3013,
-  "today": 7,
-  "predicted": 7
+  "hist": 3020,
+  "today": 0,
+  "predicted": 0
  }
 }
