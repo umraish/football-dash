@@ -49,14 +49,14 @@
  },
  "uefa.nations": {
   "name": "UEFA Nations League",
-  "hist": 116,
-  "today": 10,
-  "predicted": 9
+  "hist": 117,
+  "today": 9,
+  "predicted": 8
  },
  "fifa.friendly": {
   "name": "International Friendly",
-  "hist": 344,
-  "today": 5,
+  "hist": 349,
+  "today": 0,
   "predicted": 0
  },
  "usa.1": {
@@ -242,8 +242,8 @@
  "concacaf.nations.league": {
   "name": "Concacaf Nations League",
   "hist": 80,
-  "today": 3,
-  "predicted": 2
+  "today": 0,
+  "predicted": 0
  },
  "conmebol.libertadores": {
   "name": "CONMEBOL Libertadores",
@@ -356,8 +356,8 @@
  "fra.w.1": {
   "name": "French Premi\u00e8re Ligue",
   "hist": 121,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "ned.cup": {
   "name": "Dutch KNVB Beker",
@@ -439,9 +439,9 @@
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
-  "hist": 69,
-  "today": 9,
-  "predicted": 1
+  "hist": 78,
+  "today": 1,
+  "predicted": 0
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
@@ -679,8 +679,8 @@
  },
  "club.friendly": {
   "name": "Club Friendly",
-  "hist": 795,
-  "today": 7,
+  "hist": 803,
+  "today": 1,
   "predicted": 0
  },
  "nonfifa": {
@@ -841,8 +841,8 @@
  },
  "uefa.euro_u21_qual": {
   "name": "UEFA European Under-21 Championship Qualifying",
-  "hist": 114,
-  "today": 3,
+  "hist": 116,
+  "today": 0,
   "predicted": 0
  },
  "uefa.euro.u19": {
@@ -853,8 +853,8 @@
  },
  "fifa.friendly_u21": {
   "name": "Under-21 International Friendly",
-  "hist": 11,
-  "today": 7,
+  "hist": 14,
+  "today": 2,
   "predicted": 0
  },
  "ger.2.promotion.relegation": {
@@ -1273,7 +1273,7 @@
  },
  "ind.2": {
   "name": "Indian I-League",
-  "hist": 76,
+  "hist": 77,
   "today": 0,
   "predicted": 0
  },
@@ -1315,8 +1315,8 @@
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 3033,
-  "today": 6,
-  "predicted": 6
+  "hist": 3034,
+  "today": 4,
+  "predicted": 4
  }
 }

@@ -109,9 +109,9 @@
   "prob": 0.8035,
   "fair_odds": 1.24,
   "is_banker": 0,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "lost",
+  "score": "2-2",
+  "settled_at": "2026-11-13T19:20:54.357589+00:00"
  },
  {
   "id": 132,
