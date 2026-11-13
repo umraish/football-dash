@@ -55,8 +55,8 @@
  },
  "fifa.friendly": {
   "name": "International Friendly",
-  "hist": 343,
-  "today": 6,
+  "hist": 344,
+  "today": 5,
   "predicted": 0
  },
  "usa.1": {
@@ -440,7 +440,7 @@
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
   "hist": 69,
-  "today": 12,
+  "today": 9,
   "predicted": 1
  },
  "afc.cup": {
@@ -565,7 +565,7 @@
  },
  "mex.2": {
   "name": "Mexican Liga de Expansi\u00f3n MX",
-  "hist": 250,
+  "hist": 251,
   "today": 0,
   "predicted": 0
  },
@@ -679,9 +679,9 @@
  },
  "club.friendly": {
   "name": "Club Friendly",
-  "hist": 787,
-  "today": 12,
-  "predicted": 1
+  "hist": 795,
+  "today": 7,
+  "predicted": 0
  },
  "nonfifa": {
   "name": "Non-FIFA Friendly",
@@ -1274,8 +1274,8 @@
  "ind.2": {
   "name": "Indian I-League",
   "hist": 76,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "global.gulf_cup": {
   "name": "Arabian Gulf Cup",
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1864,
+  "hist": 1865,
   "today": 0,
   "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 3032,
-  "today": 7,
+  "hist": 3033,
+  "today": 6,
   "predicted": 6
  }
 }
