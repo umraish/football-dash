@@ -50,13 +50,13 @@
  "uefa.nations": {
   "name": "UEFA Nations League",
   "hist": 116,
-  "today": 0,
-  "predicted": 0
+  "today": 10,
+  "predicted": 9
  },
  "fifa.friendly": {
   "name": "International Friendly",
-  "hist": 344,
-  "today": 0,
+  "hist": 343,
+  "today": 6,
   "predicted": 0
  },
  "usa.1": {
@@ -79,8 +79,8 @@
  },
  "esp.copa_del_rey": {
   "name": "Spanish Copa del Rey",
-  "hist": 89,
-  "today": 0,
+  "hist": 86,
+  "today": 1,
   "predicted": 0
  },
  "concacaf.leagues.cup": {
@@ -127,7 +127,7 @@
  },
  "uefa.europa.conf": {
   "name": "UEFA Conference League",
-  "hist": 117,
+  "hist": 99,
   "today": 0,
   "predicted": 0
  },
@@ -176,7 +176,7 @@
  "fra.coupe_de_france": {
   "name": "Coupe de France",
   "hist": 66,
-  "today": 0,
+  "today": 3,
   "predicted": 0
  },
  "fra.super_cup": {
@@ -241,9 +241,9 @@
  },
  "concacaf.nations.league": {
   "name": "Concacaf Nations League",
-  "hist": 77,
-  "today": 0,
-  "predicted": 0
+  "hist": 80,
+  "today": 3,
+  "predicted": 2
  },
  "conmebol.libertadores": {
   "name": "CONMEBOL Libertadores",
@@ -356,12 +356,12 @@
  "fra.w.1": {
   "name": "French Premi\u00e8re Ligue",
   "hist": 121,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "ned.cup": {
   "name": "Dutch KNVB Beker",
-  "hist": 98,
+  "hist": 93,
   "today": 0,
   "predicted": 0
  },
@@ -440,8 +440,8 @@
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
   "hist": 69,
-  "today": 0,
-  "predicted": 0
+  "today": 12,
+  "predicted": 1
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
@@ -680,8 +680,8 @@
  "club.friendly": {
   "name": "Club Friendly",
   "hist": 787,
-  "today": 0,
-  "predicted": 0
+  "today": 12,
+  "predicted": 1
  },
  "nonfifa": {
   "name": "Non-FIFA Friendly",
@@ -716,8 +716,8 @@
  "esp.2": {
   "name": "Spanish LALIGA 2",
   "hist": 410,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "ger.2": {
   "name": "German 2. Bundesliga",
@@ -842,7 +842,7 @@
  "uefa.euro_u21_qual": {
   "name": "UEFA European Under-21 Championship Qualifying",
   "hist": 114,
-  "today": 0,
+  "today": 3,
   "predicted": 0
  },
  "uefa.euro.u19": {
@@ -854,7 +854,7 @@
  "fifa.friendly_u21": {
   "name": "Under-21 International Friendly",
   "hist": 11,
-  "today": 0,
+  "today": 7,
   "predicted": 0
  },
  "ger.2.promotion.relegation": {
@@ -871,7 +871,7 @@
  },
  "eng.3": {
   "name": "English League One",
-  "hist": 483,
+  "hist": 482,
   "today": 0,
   "predicted": 0
  },
@@ -1027,7 +1027,7 @@
  },
  "arg.supercopa": {
   "name": "Argentine Supercopa",
-  "hist": 0,
+  "hist": 1,
   "today": 0,
   "predicted": 0
  },
@@ -1057,7 +1057,7 @@
  },
  "bra.2": {
   "name": "Brazilian Serie B",
-  "hist": 371,
+  "hist": 373,
   "today": 0,
   "predicted": 0
  },
@@ -1117,9 +1117,9 @@
  },
  "uru.1": {
   "name": "Liga AUF Uruguaya",
-  "hist": 281,
-  "today": 0,
-  "predicted": 0
+  "hist": 282,
+  "today": 1,
+  "predicted": 1
  },
  "uru.2": {
   "name": "Segunda Divisi\u00f3n de Uruguay",
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 384,
+  "hist": 386,
   "today": 0,
   "predicted": 0
  },
@@ -1171,7 +1171,7 @@
  },
  "ven.1": {
   "name": "Venezuelan Primera Divisi\u00f3n",
-  "hist": 226,
+  "hist": 227,
   "today": 0,
   "predicted": 0
  },
@@ -1183,7 +1183,7 @@
  },
  "bol.copa": {
   "name": "Copa Bolivia",
-  "hist": 77,
+  "hist": 76,
   "today": 0,
   "predicted": 0
  },
@@ -1225,7 +1225,7 @@
  },
  "hon.1": {
   "name": "Honduran Liga Nacional",
-  "hist": 217,
+  "hist": 216,
   "today": 0,
   "predicted": 0
  },
@@ -1243,7 +1243,7 @@
  },
  "slv.1": {
   "name": "Salvadoran Primera Division",
-  "hist": 265,
+  "hist": 267,
   "today": 0,
   "predicted": 0
  },
@@ -1274,8 +1274,8 @@
  "ind.2": {
   "name": "Indian I-League",
   "hist": 76,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "global.gulf_cup": {
   "name": "Arabian Gulf Cup",
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1859,
+  "hist": 1864,
   "today": 0,
   "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 3020,
-  "today": 0,
-  "predicted": 0
+  "hist": 3032,
+  "today": 7,
+  "predicted": 6
  }
 }
