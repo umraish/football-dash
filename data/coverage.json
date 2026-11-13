@@ -49,9 +49,9 @@
  },
  "uefa.nations": {
   "name": "UEFA Nations League",
-  "hist": 117,
-  "today": 9,
-  "predicted": 8
+  "hist": 126,
+  "today": 0,
+  "predicted": 0
  },
  "fifa.friendly": {
   "name": "International Friendly",
@@ -79,8 +79,8 @@
  },
  "esp.copa_del_rey": {
   "name": "Spanish Copa del Rey",
-  "hist": 86,
-  "today": 1,
+  "hist": 87,
+  "today": 0,
   "predicted": 0
  },
  "concacaf.leagues.cup": {
@@ -175,8 +175,8 @@
  },
  "fra.coupe_de_france": {
   "name": "Coupe de France",
-  "hist": 66,
-  "today": 3,
+  "hist": 69,
+  "today": 0,
   "predicted": 0
  },
  "fra.super_cup": {
@@ -241,7 +241,7 @@
  },
  "concacaf.nations.league": {
   "name": "Concacaf Nations League",
-  "hist": 80,
+  "hist": 83,
   "today": 0,
   "predicted": 0
  },
@@ -355,7 +355,7 @@
  },
  "fra.w.1": {
   "name": "French Premi\u00e8re Ligue",
-  "hist": 121,
+  "hist": 122,
   "today": 0,
   "predicted": 0
  },
@@ -439,8 +439,8 @@
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
-  "hist": 78,
-  "today": 1,
+  "hist": 81,
+  "today": 0,
   "predicted": 0
  },
  "afc.cup": {
@@ -715,9 +715,9 @@
  },
  "esp.2": {
   "name": "Spanish LALIGA 2",
-  "hist": 410,
-  "today": 1,
-  "predicted": 1
+  "hist": 411,
+  "today": 0,
+  "predicted": 0
  },
  "ger.2": {
   "name": "German 2. Bundesliga",
@@ -841,7 +841,7 @@
  },
  "uefa.euro_u21_qual": {
   "name": "UEFA European Under-21 Championship Qualifying",
-  "hist": 116,
+  "hist": 117,
   "today": 0,
   "predicted": 0
  },
@@ -853,8 +853,8 @@
  },
  "fifa.friendly_u21": {
   "name": "Under-21 International Friendly",
-  "hist": 14,
-  "today": 2,
+  "hist": 18,
+  "today": 0,
   "predicted": 0
  },
  "ger.2.promotion.relegation": {
@@ -1117,9 +1117,9 @@
  },
  "uru.1": {
   "name": "Liga AUF Uruguaya",
-  "hist": 282,
-  "today": 1,
-  "predicted": 1
+  "hist": 283,
+  "today": 0,
+  "predicted": 0
  },
  "uru.2": {
   "name": "Segunda Divisi\u00f3n de Uruguay",
@@ -1315,8 +1315,8 @@
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 3034,
-  "today": 4,
-  "predicted": 4
+  "hist": 3036,
+  "today": 0,
+  "predicted": 0
  }
 }
