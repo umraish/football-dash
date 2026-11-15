@@ -49,13 +49,13 @@
  },
  "uefa.nations": {
   "name": "UEFA Nations League",
-  "hist": 136,
-  "today": 4,
-  "predicted": 4
+  "hist": 142,
+  "today": 0,
+  "predicted": 0
  },
  "fifa.friendly": {
   "name": "International Friendly",
-  "hist": 360,
+  "hist": 361,
   "today": 0,
   "predicted": 0
  },
@@ -68,8 +68,8 @@
  "usa.nwsl": {
   "name": "NWSL",
   "hist": 245,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "esp.super_cup": {
   "name": "Spanish Supercopa",
@@ -314,8 +314,8 @@
  "usa.w.usl.1": {
   "name": "USL Super League",
   "hist": 112,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "uefa.champions_qual": {
   "name": "UEFA Champions League Qualifying",
@@ -343,7 +343,7 @@
  },
  "esp.w.1": {
   "name": "Spanish Liga F",
-  "hist": 213,
+  "hist": 215,
   "today": 0,
   "predicted": 0
  },
@@ -565,7 +565,7 @@
  },
  "mex.2": {
   "name": "Mexican Liga de Expansi\u00f3n MX",
-  "hist": 252,
+  "hist": 253,
   "today": 0,
   "predicted": 0
  },
@@ -715,7 +715,7 @@
  },
  "esp.2": {
   "name": "Spanish LALIGA 2",
-  "hist": 413,
+  "hist": 415,
   "today": 0,
   "predicted": 0
  },
@@ -1021,9 +1021,9 @@
  },
  "arg.2": {
   "name": "Argentine Nacional B",
-  "hist": 651,
-  "today": 1,
-  "predicted": 1
+  "hist": 653,
+  "today": 0,
+  "predicted": 0
  },
  "arg.supercopa": {
   "name": "Argentine Supercopa",
@@ -1117,9 +1117,9 @@
  },
  "uru.1": {
   "name": "Liga AUF Uruguaya",
-  "hist": 286,
-  "today": 1,
-  "predicted": 1
+  "hist": 287,
+  "today": 0,
+  "predicted": 0
  },
  "uru.2": {
   "name": "Segunda Divisi\u00f3n de Uruguay",
@@ -1147,9 +1147,9 @@
  },
  "per.1": {
   "name": "Peruvian Liga 1",
-  "hist": 297,
-  "today": 1,
-  "predicted": 1
+  "hist": 298,
+  "today": 0,
+  "predicted": 0
  },
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
@@ -1183,9 +1183,9 @@
  },
  "bol.copa": {
   "name": "Copa Bolivia",
-  "hist": 75,
-  "today": 2,
-  "predicted": 2
+  "hist": 76,
+  "today": 0,
+  "predicted": 0
  },
  "bol.1": {
   "name": "Bolivian Liga Profesional",
@@ -1238,14 +1238,14 @@
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
   "hist": 265,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "slv.1": {
   "name": "Salvadoran Primera Division",
   "hist": 269,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "fifa.intercontinental.cup": {
   "name": "Intercontinental Cup (India)",
@@ -1309,14 +1309,14 @@
  },
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
-  "hist": 1881,
-  "today": 3,
-  "predicted": 3
+  "hist": 1886,
+  "today": 0,
+  "predicted": 0
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 3057,
-  "today": 6,
-  "predicted": 6
+  "hist": 3067,
+  "today": 0,
+  "predicted": 0
  }
 }
