@@ -49,14 +49,14 @@
  },
  "uefa.nations": {
   "name": "UEFA Nations League",
-  "hist": 134,
-  "today": 8,
-  "predicted": 8
+  "hist": 136,
+  "today": 4,
+  "predicted": 4
  },
  "fifa.friendly": {
   "name": "International Friendly",
   "hist": 360,
-  "today": 1,
+  "today": 0,
   "predicted": 0
  },
  "usa.1": {
@@ -175,8 +175,8 @@
  },
  "fra.coupe_de_france": {
   "name": "Coupe de France",
-  "hist": 101,
-  "today": 33,
+  "hist": 134,
+  "today": 0,
   "predicted": 0
  },
  "fra.super_cup": {
@@ -205,9 +205,9 @@
  },
  "eng.w.1": {
   "name": "English Women's Super League",
-  "hist": 133,
-  "today": 3,
-  "predicted": 3
+  "hist": 136,
+  "today": 0,
+  "predicted": 0
  },
  "eng.2": {
   "name": "English League Championship",
@@ -331,8 +331,8 @@
  },
  "eng.w.fa": {
   "name": "English Women's FA Cup",
-  "hist": 80,
-  "today": 22,
+  "hist": 102,
+  "today": 0,
   "predicted": 0
  },
  "eng.w.league_cup": {
@@ -343,9 +343,9 @@
  },
  "esp.w.1": {
   "name": "Spanish Liga F",
-  "hist": 212,
-  "today": 3,
-  "predicted": 3
+  "hist": 213,
+  "today": 0,
+  "predicted": 0
  },
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
@@ -566,8 +566,8 @@
  "mex.2": {
   "name": "Mexican Liga de Expansi\u00f3n MX",
   "hist": 252,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
@@ -679,9 +679,9 @@
  },
  "club.friendly": {
   "name": "Club Friendly",
-  "hist": 822,
-  "today": 4,
-  "predicted": 1
+  "hist": 826,
+  "today": 0,
+  "predicted": 0
  },
  "nonfifa": {
   "name": "Non-FIFA Friendly",
@@ -715,9 +715,9 @@
  },
  "esp.2": {
   "name": "Spanish LALIGA 2",
-  "hist": 411,
-  "today": 3,
-  "predicted": 3
+  "hist": 413,
+  "today": 0,
+  "predicted": 0
  },
  "ger.2": {
   "name": "German 2. Bundesliga",
@@ -931,9 +931,9 @@
  },
  "ned.2": {
   "name": "Dutch Keuken Kampioen Divisie",
-  "hist": 321,
-  "today": 1,
-  "predicted": 1
+  "hist": 322,
+  "today": 0,
+  "predicted": 0
  },
  "ned.3.promotion.relegation": {
   "name": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
@@ -949,9 +949,9 @@
  },
  "ned.w.1": {
   "name": "Dutch Vrouwen Eredivisie",
-  "hist": 123,
-  "today": 4,
-  "predicted": 4
+  "hist": 127,
+  "today": 0,
+  "predicted": 0
  },
  "swe.1": {
   "name": "Swedish Allsvenskan",
@@ -1022,8 +1022,8 @@
  "arg.2": {
   "name": "Argentine Nacional B",
   "hist": 651,
-  "today": 2,
-  "predicted": 2
+  "today": 1,
+  "predicted": 1
  },
  "arg.supercopa": {
   "name": "Argentine Supercopa",
@@ -1148,8 +1148,8 @@
  "per.1": {
   "name": "Peruvian Liga 1",
   "hist": 297,
-  "today": 2,
-  "predicted": 2
+  "today": 1,
+  "predicted": 1
  },
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
@@ -1273,7 +1273,7 @@
  },
  "ind.2": {
   "name": "Indian I-League",
-  "hist": 80,
+  "hist": 81,
   "today": 0,
   "predicted": 0
  },
@@ -1310,13 +1310,13 @@
  "usa.ncaa.m.1": {
   "name": "NCAA Men's Soccer",
   "hist": 1881,
-  "today": 7,
-  "predicted": 7
+  "today": 3,
+  "predicted": 3
  },
  "usa.ncaa.w.1": {
   "name": "NCAA Women's Soccer",
-  "hist": 3056,
-  "today": 14,
-  "predicted": 14
+  "hist": 3057,
+  "today": 6,
+  "predicted": 6
  }
 }
