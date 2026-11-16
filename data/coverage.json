@@ -49,15 +49,15 @@
  },
  "uefa.nations": {
   "name": "UEFA Nations League",
-  "hist": 142,
-  "today": 10,
-  "predicted": 10
+  "hist": 152,
+  "today": 0,
+  "predicted": 0
  },
  "fifa.friendly": {
   "name": "International Friendly",
-  "hist": 360,
-  "today": 1,
-  "predicted": 1
+  "hist": 361,
+  "today": 0,
+  "predicted": 0
  },
  "usa.1": {
   "name": "MLS",
@@ -241,9 +241,9 @@
  },
  "concacaf.nations.league": {
   "name": "Concacaf Nations League",
-  "hist": 91,
-  "today": 3,
-  "predicted": 2
+  "hist": 94,
+  "today": 0,
+  "predicted": 0
  },
  "conmebol.libertadores": {
   "name": "CONMEBOL Libertadores",
@@ -439,8 +439,8 @@
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
-  "hist": 85,
-  "today": 3,
+  "hist": 90,
+  "today": 0,
   "predicted": 0
  },
  "afc.cup": {
@@ -715,9 +715,9 @@
  },
  "esp.2": {
   "name": "Spanish LALIGA 2",
-  "hist": 409,
-  "today": 1,
-  "predicted": 1
+  "hist": 410,
+  "today": 0,
+  "predicted": 0
  },
  "ger.2": {
   "name": "German 2. Bundesliga",
@@ -841,9 +841,9 @@
  },
  "uefa.euro_u21_qual": {
   "name": "UEFA European Under-21 Championship Qualifying",
-  "hist": 117,
-  "today": 1,
-  "predicted": 1
+  "hist": 118,
+  "today": 0,
+  "predicted": 0
  },
  "uefa.euro.u19": {
   "name": "UEFA European Under-19 Championship",
@@ -853,9 +853,9 @@
  },
  "fifa.friendly_u21": {
   "name": "Under-21 International Friendly",
-  "hist": 19,
-  "today": 4,
-  "predicted": 2
+  "hist": 23,
+  "today": 0,
+  "predicted": 0
  },
  "ger.2.promotion.relegation": {
   "name": "German Bundesliga 2. Promotion/Relegation Playoffs",
@@ -1147,9 +1147,9 @@
  },
  "per.1": {
   "name": "Peruvian Liga 1",
-  "hist": 299,
-  "today": 3,
-  "predicted": 3
+  "hist": 300,
+  "today": 0,
+  "predicted": 0
  },
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
