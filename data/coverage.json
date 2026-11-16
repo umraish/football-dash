@@ -439,9 +439,9 @@
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
-  "hist": 84,
-  "today": 6,
-  "predicted": 1
+  "hist": 85,
+  "today": 3,
+  "predicted": 0
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
@@ -571,9 +571,9 @@
  },
  "mex.w.1": {
   "name": "Mexican Liga BBVA MX Femenil",
-  "hist": 132,
-  "today": 1,
-  "predicted": 1
+  "hist": 134,
+  "today": 0,
+  "predicted": 0
  },
  "global.finalissima": {
   "name": "CONMEBOL-UEFA Cup of Champions",
@@ -854,7 +854,7 @@
  "fifa.friendly_u21": {
   "name": "Under-21 International Friendly",
   "hist": 19,
-  "today": 5,
+  "today": 4,
   "predicted": 2
  },
  "ger.2.promotion.relegation": {
