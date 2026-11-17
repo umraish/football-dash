@@ -241,7 +241,7 @@
  },
  "concacaf.nations.league": {
   "name": "Concacaf Nations League",
-  "hist": 94,
+  "hist": 97,
   "today": 4,
   "predicted": 4
  },
@@ -547,9 +547,9 @@
  },
  "usa.usl.1": {
   "name": "USL Championship",
-  "hist": 388,
-  "today": 1,
-  "predicted": 1
+  "hist": 389,
+  "today": 0,
+  "predicted": 0
  },
  "usa.usl.l1": {
   "name": "USL League One",
