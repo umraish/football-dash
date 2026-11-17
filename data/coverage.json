@@ -55,9 +55,9 @@
  },
  "fifa.friendly": {
   "name": "International Friendly",
-  "hist": 361,
-  "today": 14,
-  "predicted": 4
+  "hist": 367,
+  "today": 5,
+  "predicted": 2
  },
  "usa.1": {
   "name": "MLS",
@@ -439,9 +439,9 @@
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
-  "hist": 90,
-  "today": 18,
-  "predicted": 8
+  "hist": 96,
+  "today": 12,
+  "predicted": 5
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
