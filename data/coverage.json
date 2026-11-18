@@ -241,7 +241,7 @@
  },
  "concacaf.nations.league": {
   "name": "Concacaf Nations League",
-  "hist": 105,
+  "hist": 106,
   "today": 0,
   "predicted": 0
  },
@@ -1273,8 +1273,8 @@
  },
  "ind.2": {
   "name": "Indian I-League",
-  "hist": 81,
-  "today": 1,
+  "hist": 82,
+  "today": 0,
   "predicted": 0
  },
  "global.gulf_cup": {
