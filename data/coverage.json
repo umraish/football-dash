@@ -79,8 +79,8 @@
  },
  "esp.copa_del_rey": {
   "name": "Spanish Copa del Rey",
-  "hist": 87,
-  "today": 6,
+  "hist": 88,
+  "today": 0,
   "predicted": 0
  },
  "concacaf.leagues.cup": {
@@ -115,9 +115,9 @@
  },
  "uefa.wchampions": {
   "name": "UEFA Women's Champions League",
-  "hist": 57,
-  "today": 4,
-  "predicted": 3
+  "hist": 59,
+  "today": 0,
+  "predicted": 0
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
@@ -338,8 +338,8 @@
  "eng.w.league_cup": {
   "name": "English WSL Players Cup",
   "hist": 50,
-  "today": 5,
-  "predicted": 3
+  "today": 0,
+  "predicted": 0
  },
  "esp.w.1": {
   "name": "Spanish Liga F",
@@ -349,9 +349,9 @@
  },
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
-  "hist": 35,
-  "today": 3,
-  "predicted": 1
+  "hist": 36,
+  "today": 0,
+  "predicted": 0
  },
  "fra.w.1": {
   "name": "French Premi\u00e8re Ligue",
@@ -1148,8 +1148,8 @@
  "per.1": {
   "name": "Peruvian Liga 1",
   "hist": 302,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
