@@ -1,5 +1,81 @@
 [
  {
+  "id": 174,
+  "logged_at": "2026-11-18T23:38:59.441090+00:00",
+  "tip_date": "2026-11-19",
+  "event_id": "401916978",
+  "slug": "uefa.wchampions",
+  "league": "UEFA Women's Champions League",
+  "kickoff": "2026-11-19T17:45Z",
+  "home": "Austria Vienna",
+  "away": "Bayern Munich",
+  "market": "1X2",
+  "selection": "2",
+  "prob": 0.8809,
+  "fair_odds": 1.14,
+  "is_banker": 1,
+  "result": "pending",
+  "score": null,
+  "settled_at": null
+ },
+ {
+  "id": 175,
+  "logged_at": "2026-11-18T23:38:59.441090+00:00",
+  "tip_date": "2026-11-19",
+  "event_id": "401930693",
+  "slug": "ind.2",
+  "league": "Indian I-League",
+  "kickoff": "2026-11-19T10:30Z",
+  "home": "Dempo Sports Club",
+  "away": "Shillong Lajong FC",
+  "market": "O/U 2.5",
+  "selection": "Under 2.5",
+  "prob": 0.7052,
+  "fair_odds": 1.42,
+  "is_banker": 0,
+  "result": "pending",
+  "score": null,
+  "settled_at": null
+ },
+ {
+  "id": 176,
+  "logged_at": "2026-11-18T23:38:59.441090+00:00",
+  "tip_date": "2026-11-19",
+  "event_id": "401841317",
+  "slug": "bra.1",
+  "league": "Brazilian Serie A",
+  "kickoff": "2026-11-19T22:30Z",
+  "home": "Vit\u00f3ria",
+  "away": "Red Bull Bragantino",
+  "market": "O/U 2.5",
+  "selection": "Under 2.5",
+  "prob": 0.6025,
+  "fair_odds": 1.66,
+  "is_banker": 0,
+  "result": "pending",
+  "score": null,
+  "settled_at": null
+ },
+ {
+  "id": 177,
+  "logged_at": "2026-11-18T23:38:59.441090+00:00",
+  "tip_date": "2026-11-19",
+  "event_id": "401916976",
+  "slug": "uefa.wchampions",
+  "league": "UEFA Women's Champions League",
+  "kickoff": "2026-11-19T20:00Z",
+  "home": "Arsenal",
+  "away": "OL Lyonnes",
+  "market": "O/U 2.5",
+  "selection": "Under 2.5",
+  "prob": 0.5842,
+  "fair_odds": 1.71,
+  "is_banker": 0,
+  "result": "pending",
+  "score": null,
+  "settled_at": null
+ },
+ {
   "id": 168,
   "logged_at": "2026-11-18T00:05:04.201146+00:00",
   "tip_date": "2026-11-18",
@@ -14,9 +90,9 @@
   "prob": 0.9619,
   "fair_odds": 1.04,
   "is_banker": 1,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "won",
+  "score": "2-0",
+  "settled_at": "2026-11-18T23:38:59.441090+00:00"
  },
  {
   "id": 169,
@@ -52,9 +128,9 @@
   "prob": 0.9086,
   "fair_odds": 1.1,
   "is_banker": 0,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "won",
+  "score": "7-0",
+  "settled_at": "2026-11-18T23:38:59.441090+00:00"
  },
  {
   "id": 171,
@@ -71,9 +147,9 @@
   "prob": 0.7118,
   "fair_odds": 1.4,
   "is_banker": 0,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "lost",
+  "score": "2-1",
+  "settled_at": "2026-11-18T23:38:59.441090+00:00"
  },
  {
   "id": 172,
@@ -109,9 +185,9 @@
   "prob": 0.6858,
   "fair_odds": 1.46,
   "is_banker": 0,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "won",
+  "score": "1-0",
+  "settled_at": "2026-11-18T23:38:59.441090+00:00"
  },
  {
   "id": 162,
