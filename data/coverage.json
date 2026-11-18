@@ -55,7 +55,7 @@
  },
  "fifa.friendly": {
   "name": "International Friendly",
-  "hist": 375,
+  "hist": 379,
   "today": 0,
   "predicted": 0
  },
@@ -241,9 +241,9 @@
  },
  "concacaf.nations.league": {
   "name": "Concacaf Nations League",
-  "hist": 101,
-  "today": 4,
-  "predicted": 3
+  "hist": 105,
+  "today": 0,
+  "predicted": 0
  },
  "conmebol.libertadores": {
   "name": "CONMEBOL Libertadores",
@@ -1141,9 +1141,9 @@
  },
  "col.copa": {
   "name": "Copa Colombia",
-  "hist": 70,
-  "today": 1,
-  "predicted": 1
+  "hist": 72,
+  "today": 0,
+  "predicted": 0
  },
  "per.1": {
   "name": "Peruvian Liga 1",
