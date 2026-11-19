@@ -31,7 +31,7 @@
  },
  "eng.league_cup": {
   "name": "English Carabao Cup",
-  "hist": 89,
+  "hist": 0,
   "today": 0,
   "predicted": 0
  },
@@ -361,7 +361,7 @@
  },
  "ned.cup": {
   "name": "Dutch KNVB Beker",
-  "hist": 93,
+  "hist": 0,
   "today": 0,
   "predicted": 0
  },
@@ -445,7 +445,7 @@
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
-  "hist": 96,
+  "hist": 90,
   "today": 0,
   "predicted": 0
  },
@@ -985,7 +985,7 @@
  },
  "conmebol.sudamericana": {
   "name": "CONMEBOL Sudamericana",
-  "hist": 0,
+  "hist": 156,
   "today": 0,
   "predicted": 0
  },
@@ -1051,9 +1051,9 @@
  },
  "bra.1": {
   "name": "Brazilian Serie A",
-  "hist": 340,
-  "today": 4,
-  "predicted": 4
+  "hist": 346,
+  "today": 2,
+  "predicted": 2
  },
  "bra.2": {
   "name": "Brazilian Serie B",
@@ -1118,8 +1118,8 @@
  "uru.1": {
   "name": "Liga AUF Uruguaya",
   "hist": 289,
-  "today": 0,
-  "predicted": 0
+  "today": 3,
+  "predicted": 3
  },
  "uru.2": {
   "name": "Segunda Divisi\u00f3n de Uruguay",
@@ -1183,7 +1183,7 @@
  },
  "bol.copa": {
   "name": "Copa Bolivia",
-  "hist": 76,
+  "hist": 77,
   "today": 0,
   "predicted": 0
  },
@@ -1207,7 +1207,7 @@
  },
  "concacaf.central.american.cup": {
   "name": "Concacaf Central American Cup",
-  "hist": 56,
+  "hist": 0,
   "today": 0,
   "predicted": 0
  },
