@@ -115,9 +115,9 @@
  },
  "uefa.wchampions": {
   "name": "UEFA Women's Champions League",
-  "hist": 61,
-  "today": 5,
-  "predicted": 2
+  "hist": 63,
+  "today": 0,
+  "predicted": 0
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
@@ -349,8 +349,8 @@
  },
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
-  "hist": 38,
-  "today": 2,
+  "hist": 40,
+  "today": 0,
   "predicted": 0
  },
  "fra.w.1": {
@@ -829,8 +829,8 @@
  },
  "fifa.world.u17": {
   "name": "FIFA Under-17 World Cup",
-  "hist": 2,
-  "today": 3,
+  "hist": 8,
+  "today": 0,
   "predicted": 0
  },
  "fifa.wworld.u17": {
@@ -1118,8 +1118,8 @@
  "uru.1": {
   "name": "Liga AUF Uruguaya",
   "hist": 289,
-  "today": 3,
-  "predicted": 3
+  "today": 0,
+  "predicted": 0
  },
  "uru.2": {
   "name": "Segunda Divisi\u00f3n de Uruguay",
