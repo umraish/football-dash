@@ -52,9 +52,9 @@
   "prob": 0.9267,
   "fair_odds": 1.08,
   "is_banker": 0,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "won",
+  "score": "2-1",
+  "settled_at": "2026-11-22T14:09:38.432252+00:00"
  },
  {
   "id": 193,
@@ -71,9 +71,9 @@
   "prob": 0.8972,
   "fair_odds": 1.11,
   "is_banker": 0,
-  "result": "pending",
-  "score": null,
-  "settled_at": null
+  "result": "won",
+  "score": "0-0",
+  "settled_at": "2026-11-22T14:09:38.432252+00:00"
  },
  {
   "id": 194,
