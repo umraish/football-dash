@@ -422,8 +422,8 @@
  "tur.1": {
   "name": "Turkish Super Lig",
   "hist": 260,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "caf.nations": {
   "name": "Africa Cup of Nations",
@@ -433,9 +433,9 @@
  },
  "afc.champions": {
   "name": "AFC Champions League Elite",
-  "hist": 106,
-  "today": 6,
-  "predicted": 1
+  "hist": 107,
+  "today": 2,
+  "predicted": 0
  },
  "caf.nations_qual": {
   "name": "Africa Cup of Nations Qualifying",
@@ -757,9 +757,9 @@
  },
  "gre.1": {
   "name": "Greek Super League",
-  "hist": 207,
-  "today": 1,
-  "predicted": 1
+  "hist": 208,
+  "today": 0,
+  "predicted": 0
  },
  "chn.1": {
   "name": "Chinese Super League",
@@ -829,8 +829,8 @@
  },
  "fifa.world.u17": {
   "name": "FIFA Under-17 World Cup",
-  "hist": 32,
-  "today": 8,
+  "hist": 40,
+  "today": 0,
   "predicted": 0
  },
  "fifa.wworld.u17": {
@@ -1273,9 +1273,9 @@
  },
  "ind.2": {
   "name": "Indian I-League",
-  "hist": 86,
-  "today": 1,
-  "predicted": 1
+  "hist": 87,
+  "today": 0,
+  "predicted": 0
  },
  "global.gulf_cup": {
   "name": "Arabian Gulf Cup",
