@@ -61,9 +61,9 @@
  },
  "usa.1": {
   "name": "MLS",
-  "hist": 519,
-  "today": 1,
-  "predicted": 1
+  "hist": 520,
+  "today": 0,
+  "predicted": 0
  },
  "usa.nwsl": {
   "name": "NWSL",
@@ -133,7 +133,7 @@
  },
  "ita.1": {
   "name": "Italian Serie A",
-  "hist": 335,
+  "hist": 334,
   "today": 0,
   "predicted": 0
  },
@@ -211,7 +211,7 @@
  },
  "eng.2": {
   "name": "English League Championship",
-  "hist": 475,
+  "hist": 463,
   "today": 8,
   "predicted": 8
  },
@@ -385,7 +385,7 @@
  },
  "aus.1": {
   "name": "Australian A-League Men",
-  "hist": 134,
+  "hist": 133,
   "today": 0,
   "predicted": 0
  },
@@ -397,7 +397,7 @@
  },
  "ksa.1": {
   "name": "Saudi Pro League",
-  "hist": 321,
+  "hist": 318,
   "today": 0,
   "predicted": 0
  },
@@ -409,7 +409,7 @@
  },
  "por.1": {
   "name": "Portuguese Primeira Liga",
-  "hist": 263,
+  "hist": 262,
   "today": 0,
   "predicted": 0
  },
@@ -871,13 +871,13 @@
  },
  "eng.3": {
   "name": "English League One",
-  "hist": 476,
+  "hist": 464,
   "today": 3,
   "predicted": 3
  },
  "eng.4": {
   "name": "English League Two",
-  "hist": 479,
+  "hist": 467,
   "today": 2,
   "predicted": 2
  },
@@ -1051,9 +1051,9 @@
  },
  "bra.1": {
   "name": "Brazilian Serie A",
-  "hist": 355,
-  "today": 2,
-  "predicted": 2
+  "hist": 358,
+  "today": 1,
+  "predicted": 1
  },
  "bra.2": {
   "name": "Brazilian Serie B",
@@ -1117,7 +1117,7 @@
  },
  "uru.1": {
   "name": "Liga AUF Uruguaya",
-  "hist": 296,
+  "hist": 297,
   "today": 0,
   "predicted": 0
  },
@@ -1153,7 +1153,7 @@
  },
  "par.1": {
   "name": "Paraguayan Primera Divisi\u00f3n",
-  "hist": 251,
+  "hist": 252,
   "today": 0,
   "predicted": 0
  },
@@ -1232,8 +1232,8 @@
  "crc.1": {
   "name": "Costa Rican Primera Division",
   "hist": 180,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "gua.1": {
   "name": "Guatemalan Liga Nacional",
