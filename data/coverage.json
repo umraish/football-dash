@@ -14,12 +14,12 @@
  "uefa.champions": {
   "name": "UEFA Champions League",
   "hist": 162,
-  "today": 0,
-  "predicted": 0
+  "today": 9,
+  "predicted": 8
  },
  "eng.1": {
   "name": "English Premier League",
-  "hist": 310,
+  "hist": 304,
   "today": 0,
   "predicted": 0
  },
@@ -62,8 +62,8 @@
  "usa.1": {
   "name": "MLS",
   "hist": 520,
-  "today": 0,
-  "predicted": 0
+  "today": 1,
+  "predicted": 1
  },
  "usa.nwsl": {
   "name": "NWSL",
@@ -212,8 +212,8 @@
  "eng.2": {
   "name": "English League Championship",
   "hist": 471,
-  "today": 0,
-  "predicted": 0
+  "today": 4,
+  "predicted": 4
  },
  "eng.w.promotion.relegation": {
   "name": "English Women's Super League Promotion/Relegation Playoff",
@@ -313,7 +313,7 @@
  },
  "usa.w.usl.1": {
   "name": "USL Super League",
-  "hist": 116,
+  "hist": 117,
   "today": 0,
   "predicted": 0
  },
@@ -350,7 +350,7 @@
  "esp.copa_de_la_reina": {
   "name": "Spanish Copa de la Reina",
   "hist": 40,
-  "today": 0,
+  "today": 1,
   "predicted": 0
  },
  "fra.w.1": {
@@ -367,13 +367,13 @@
  },
  "sco.1": {
   "name": "Scottish Premiership",
-  "hist": 200,
+  "hist": 195,
   "today": 0,
   "predicted": 0
  },
  "sco.tennents": {
   "name": "Scottish Cup",
-  "hist": 0,
+  "hist": 80,
   "today": 0,
   "predicted": 0
  },
@@ -391,13 +391,13 @@
  },
  "aus.w.1": {
   "name": "Australian A-League Women",
-  "hist": 105,
+  "hist": 104,
   "today": 0,
   "predicted": 0
  },
  "ksa.1": {
   "name": "Saudi Pro League",
-  "hist": 318,
+  "hist": 315,
   "today": 0,
   "predicted": 0
  },
@@ -434,7 +434,7 @@
  "afc.champions": {
   "name": "AFC Champions League Elite",
   "hist": 120,
-  "today": 0,
+  "today": 2,
   "predicted": 0
  },
  "caf.nations_qual": {
@@ -446,8 +446,8 @@
  "afc.cup": {
   "name": "AFC Champions League Two",
   "hist": 92,
-  "today": 0,
-  "predicted": 0
+  "today": 8,
+  "predicted": 1
  },
  "fifa.cwc": {
   "name": "FIFA Club World Cup",
@@ -728,8 +728,8 @@
  "ita.2": {
   "name": "Italian Serie B",
   "hist": 336,
-  "today": 0,
-  "predicted": 0
+  "today": 4,
+  "predicted": 4
  },
  "fra.1.promotion.relegation": {
   "name": "French Ligue 1 Promotion/Relegation Playoffs",
@@ -830,7 +830,7 @@
  "fifa.world.u17": {
   "name": "FIFA Under-17 World Cup",
   "hist": 48,
-  "today": 0,
+  "today": 8,
   "predicted": 0
  },
  "fifa.wworld.u17": {
@@ -866,7 +866,7 @@
  "eng.trophy": {
   "name": "English EFL Trophy",
   "hist": 110,
-  "today": 0,
+  "today": 1,
   "predicted": 0
  },
  "eng.3": {
@@ -883,9 +883,9 @@
  },
  "eng.5": {
   "name": "English National League",
-  "hist": 496,
-  "today": 0,
-  "predicted": 0
+  "hist": 484,
+  "today": 3,
+  "predicted": 3
  },
  "eng.fa_qual": {
   "name": "English FA Cup Qualifying",
@@ -1051,7 +1051,7 @@
  },
  "bra.1": {
   "name": "Brazilian Serie A",
-  "hist": 358,
+  "hist": 359,
   "today": 0,
   "predicted": 0
  },
@@ -1111,7 +1111,7 @@
  },
  "chi.copa_chi": {
   "name": "Copa Chile",
-  "hist": 116,
+  "hist": 117,
   "today": 0,
   "predicted": 0
  },
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 398,
+  "hist": 399,
   "today": 0,
   "predicted": 0
  },
@@ -1196,8 +1196,8 @@
  "jpn.1": {
   "name": "Japanese J.League",
   "hist": 350,
-  "today": 0,
-  "predicted": 0
+  "today": 7,
+  "predicted": 7
  },
  "mex.campeon": {
   "name": "Mexican Campeon de Campeones",
@@ -1274,8 +1274,8 @@
  "ind.2": {
   "name": "Indian I-League",
   "hist": 89,
-  "today": 0,
-  "predicted": 0
+  "today": 2,
+  "predicted": 1
  },
  "global.gulf_cup": {
   "name": "Arabian Gulf Cup",
