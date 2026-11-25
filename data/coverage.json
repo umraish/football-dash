@@ -433,8 +433,8 @@
  },
  "afc.champions": {
   "name": "AFC Champions League Elite",
-  "hist": 120,
-  "today": 2,
+  "hist": 122,
+  "today": 0,
   "predicted": 0
  },
  "caf.nations_qual": {
@@ -445,9 +445,9 @@
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
-  "hist": 92,
-  "today": 8,
-  "predicted": 1
+  "hist": 95,
+  "today": 1,
+  "predicted": 0
  },
  "fifa.cwc": {
   "name": "FIFA Club World Cup",
@@ -829,8 +829,8 @@
  },
  "fifa.world.u17": {
   "name": "FIFA Under-17 World Cup",
-  "hist": 48,
-  "today": 8,
+  "hist": 54,
+  "today": 0,
   "predicted": 0
  },
  "fifa.wworld.u17": {
@@ -1195,9 +1195,9 @@
  },
  "jpn.1": {
   "name": "Japanese J.League",
-  "hist": 350,
-  "today": 7,
-  "predicted": 7
+  "hist": 357,
+  "today": 0,
+  "predicted": 0
  },
  "mex.campeon": {
   "name": "Mexican Campeon de Campeones",
@@ -1273,9 +1273,9 @@
  },
  "ind.2": {
   "name": "Indian I-League",
-  "hist": 89,
-  "today": 2,
-  "predicted": 1
+  "hist": 91,
+  "today": 0,
+  "predicted": 0
  },
  "global.gulf_cup": {
   "name": "Arabian Gulf Cup",
