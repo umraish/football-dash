@@ -61,9 +61,9 @@
  },
  "usa.1": {
   "name": "MLS",
-  "hist": 520,
-  "today": 1,
-  "predicted": 1
+  "hist": 521,
+  "today": 0,
+  "predicted": 0
  },
  "usa.nwsl": {
   "name": "NWSL",
@@ -1135,7 +1135,7 @@
  },
  "col.1": {
   "name": "Colombian Primera A",
-  "hist": 399,
+  "hist": 400,
   "today": 0,
   "predicted": 0
  },
