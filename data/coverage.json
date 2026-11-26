@@ -128,7 +128,7 @@
  "uefa.europa.conf": {
   "name": "UEFA Conference League",
   "hist": 99,
-  "today": 18,
+  "today": 17,
   "predicted": 6
  },
  "ita.1": {
@@ -445,9 +445,9 @@
  },
  "afc.cup": {
   "name": "AFC Champions League Two",
-  "hist": 100,
-  "today": 6,
-  "predicted": 1
+  "hist": 106,
+  "today": 0,
+  "predicted": 0
  },
  "fifa.cwc": {
   "name": "FIFA Club World Cup",
@@ -829,8 +829,8 @@
  },
  "fifa.world.u17": {
   "name": "FIFA Under-17 World Cup",
-  "hist": 56,
-  "today": 8,
+  "hist": 60,
+  "today": 0,
   "predicted": 0
  },
  "fifa.wworld.u17": {
