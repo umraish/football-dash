@@ -121,15 +121,15 @@
  },
  "uefa.europa": {
   "name": "UEFA Europa League",
-  "hist": 153,
-  "today": 18,
-  "predicted": 15
+  "hist": 161,
+  "today": 0,
+  "predicted": 0
  },
  "uefa.europa.conf": {
   "name": "UEFA Conference League",
-  "hist": 99,
-  "today": 17,
-  "predicted": 6
+  "hist": 109,
+  "today": 0,
+  "predicted": 0
  },
  "ita.1": {
   "name": "Italian Serie A",
@@ -679,8 +679,8 @@
  },
  "club.friendly": {
   "name": "Club Friendly",
-  "hist": 828,
-  "today": 2,
+  "hist": 829,
+  "today": 1,
   "predicted": 0
  },
  "nonfifa": {
@@ -829,7 +829,7 @@
  },
  "fifa.world.u17": {
   "name": "FIFA Under-17 World Cup",
-  "hist": 60,
+  "hist": 64,
   "today": 0,
   "predicted": 0
  },
@@ -872,8 +872,8 @@
  "eng.3": {
   "name": "English League One",
   "hist": 467,
-  "today": 1,
-  "predicted": 1
+  "today": 0,
+  "predicted": 0
  },
  "eng.4": {
   "name": "English League Two",
